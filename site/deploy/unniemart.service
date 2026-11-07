@@ -1,0 +1,17 @@
+[Unit]
+Description=Unnie Mart website (orders live from her Google Sheet, videos, tasks) - site/ in the unniemart project
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/dev/unniemart/app/site/server
+Environment=UM_CONTENT=/home/dev/unniemart/mirror
+Environment=UM_STATE=/home/dev/unniemart/state
+Environment=PYTHONUNBUFFERED=1
+ExecStart=/home/dev/unniemart/.venv/bin/uvicorn app:app --host 127.0.0.1 --port 8821 --proxy-headers --forwarded-allow-ips 127.0.0.1 --no-access-log
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=default.target

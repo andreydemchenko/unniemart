@@ -1,0 +1,19 @@
+
+# Unnie Mart: сайт магазина (заказы из её таблицы, видео, задачи). Код: проект unniemart, папка site/.
+# Приложение — user-сервис unniemart (127.0.0.1:8821), данные в ~/unniemart. Адрес без своего домена, как у панели MLM CRM.
+unniemart.159-195-15-10.sslip.io {
+	encode zstd gzip
+	header {
+		Strict-Transport-Security "max-age=31536000"
+		X-Content-Type-Options "nosniff"
+		Referrer-Policy "no-referrer"
+		X-Robots-Tag "noindex, nofollow, noarchive"
+		Permissions-Policy "camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=()"
+		Content-Security-Policy "default-src 'self'; img-src 'self' data: blob:; media-src 'self' blob:; style-src 'self' 'unsafe-inline'; script-src 'self'; connect-src 'self'; frame-src https://www.tiktok.com; frame-ancestors 'none'; base-uri 'none'; form-action 'self'"
+		-Server
+	}
+	request_body {
+		max_size 12MB
+	}
+	reverse_proxy 127.0.0.1:8821
+}

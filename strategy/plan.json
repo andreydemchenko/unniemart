@@ -1,0 +1,126 @@
+{
+  "_about": "The plan on one screen (website, Plan page). A short version of STRATEGY.md v2.1; each part says which section it comes from. Update it when the strategy changes.",
+  "line": "Be the lightstick help desk for Filipino fans, timed to every concert.",
+  "line_from": "strategy/STRATEGY.md#2",
+  "week": {
+    "target": 3,
+    "from": "strategy/STRATEGY.md#4",
+    "kinds": [
+      {
+        "format": "clinic",
+        "icon": "lightstick",
+        "name": "Lightstick Clinic",
+        "what": "Fix a real lightstick problem",
+        "often": "1 to 2 a week",
+        "examples": [
+          "7463827377362062610",
+          "7144618818113998106",
+          "7459643459536817416"
+        ]
+      },
+      {
+        "format": "proof",
+        "icon": "stock",
+        "name": "Show the stock",
+        "what": "What's on hand, a box from Korea",
+        "often": "1 a week",
+        "examples": [
+          "7289280910229376262",
+          "7186903723065511195",
+          "7651506705339059464"
+        ]
+      },
+      {
+        "format": "money",
+        "icon": "coins",
+        "name": "Ways to pay",
+        "what": "Ipon plan, installments",
+        "often": "2 a month",
+        "examples": [
+          "7148315872703122714",
+          "7172362216790838554",
+          "7146084345231543579"
+        ]
+      },
+      {
+        "format": "answer a fan",
+        "icon": "chatDots",
+        "name": "Answer a fan",
+        "what": "A real question from the comments",
+        "often": "2 a month",
+        "examples": [
+          "7278924600619191557",
+          "7278529577847115014"
+        ]
+      },
+      {
+        "format": "news",
+        "icon": "megaphone",
+        "name": "News",
+        "what": "Only when there is real news",
+        "often": "when it happens",
+        "examples": [
+          "7260516146452139269"
+        ]
+      }
+    ],
+    "examples_from": "Her own most-watched videos of each kind (data/state/own_videos.json, 2026-10-14)"
+  },
+  "ahead": {
+    "from": "strategy/STRATEGY.md#8",
+    "steps": [
+      {
+        "start": "2026-10-14",
+        "end": "2026-10-23",
+        "what": "ENHYPEN Renewal details due",
+        "post": "Will my old Army Bomb work in Bulacan?"
+      },
+      {
+        "start": "2026-10-24",
+        "end": "2026-10-31",
+        "what": "HYBE CINE FEST, Army Bomb VER.4 box arrives",
+        "post": "Lightstick at the cinema, box from Korea"
+      },
+      {
+        "start": "2026-11-01",
+        "end": "2026-11-30",
+        "what": "ENHYPEN Renewal sale",
+        "post": "VER.4 connect tutorial, Renewal GO"
+      },
+      {
+        "start": "2026-12-05",
+        "end": "2026-12-12",
+        "what": "LE SSERAFIM, NCT 127 in Manila",
+        "post": "Concert-day checklist, gift guide"
+      },
+      {
+        "start": "2027-03-13",
+        "end": "2027-03-16",
+        "what": "BTS in Bulacan",
+        "post": "Weekly BTS Clinic, real vs fake"
+      }
+    ]
+  },
+  "rules": {
+    "from": "strategy/STRATEGY.md#5",
+    "items": [
+      {
+        "icon": "lightstick",
+        "text": "The real item in the first frame"
+      },
+      {
+        "icon": "lightning",
+        "text": "Show the payoff in 2 to 4 seconds"
+      },
+      {
+        "icon": "mic",
+        "text": "Say the search words, turn on subtitles"
+      },
+      {
+        "icon": "sparkle",
+        "text": "Your voice or TikTok's business music"
+      }
+    ]
+  },
+  "goals_from": "strategy/STRATEGY.md#11"
+}

@@ -1,0 +1,1714 @@
+{
+ "week": "2026-W43",
+ "monday": "2026-10-19",
+ "sunday": "2026-10-25",
+ "made_at": "2026-10-14T09:30:08.059701+00:00",
+ "model": "claude-opus-5-5",
+ "claude": {
+  "duration_ms": 193967,
+  "num_turns": 2,
+  "session_id": "f013a63a-f01d-4237-a5e0-ed7a6f92d2e9",
+  "models": [
+   "claude-haiku-5-5",
+   "claude-opus-5-5"
+  ]
+ },
+ "health": "news: 33 of 35 sources answered (nothing from Reddit r/kpop, kpopofficial), 43 items kept from the last 8 days · stats 2026-W42: 30 TikToks, 10 with comments, 10 X posts · peers 2026-W42: 17 of 17 shops, 8 outliers · stock list: 3 items, updated 2026-10-14 · calendar: 52 events now or in the next 42 days",
+ "sources": [
+  {
+   "id": "C1",
+   "kind": "calendar",
+   "date": "2026-06-12",
+   "text": "2026-06-12 to 2027-03-16 · BTS · lightstick · Armybomb VER.4-only concert sync in effect (VER.3 and MOTS SE no longer wirelessly controlled at shows since the Busan show on June 12, 2026) · Weverse Shop / all ARIRANG shows incl. Bulacan · confidence high",
+   "url": "https://weverse.io/bts/notice/33579",
+   "note": "Evergreen explainer until Bulacan: 'Will my old Armybomb sync in Bulacan?' Answer per official notice: no, only VER.4. Then v4 unboxing + app pairing tutorial."
+  },
+  {
+   "id": "C2",
+   "kind": "calendar",
+   "date": "2026-10",
+   "text": "2026-10 · ENHYPEN · lightstick · ENHYPEN OFFICIAL LIGHT STICK VER.2 (RENEWAL EDITION) release, new logo and symbol; full details promised 'in October 2026' · Weverse Shop (channel not yet stated) · confidence high",
+   "url": "https://weverse.io/enhypen/notice/38876",
+   "note": "Top priority for this shop. GO pre-order post the day details drop; 'old v2 vs renewal' explainer (official: old v2 keeps wireless stage control, discontinued when stock runs out); new app-connect tutorial."
+  },
+  {
+   "id": "C3",
+   "kind": "calendar",
+   "date": "2026-10",
+   "text": "2026-10 to 2026-12 · NCT DREAM / EXO unit / Jaehyun · release · SM Q4 2026 lineup: NCT DREAM full album, an EXO unit mini album, Jaehyun (NCT 127) full album (dates TBA) · Online · confidence high",
+   "url": "https://www.soompi.com/article/1860159wpp/sm-announces-comeback-lineup-for-remainder-of-2026",
+   "note": "Album GOs once dated."
+  },
+  {
+   "id": "C4",
+   "kind": "calendar",
+   "date": "2026-10-13",
+   "text": "2026-10-13 to 2026-10-19 · aespa · merch · 2027 aespa SEASON'S GREETINGS pre-order (Oct 13 15:00 to Oct 19 23:59 KST) · SMTOWN merch stores · confidence high",
+   "url": "https://weverse.io/aespa/notice/39953",
+   "note": "First SG 2027 GO of the season; cutoff Oct 19 KST."
+  },
+  {
+   "id": "C5",
+   "kind": "calendar",
+   "date": "2026-10-13",
+   "text": "2026-10-13 to 2026-10-19 · NCT 127 · merch · 2027 NCT 127 SEASON'S GREETINGS pre-order (Oct 13 15:00 to Oct 19 23:59 KST) · SMTOWN merch stores · confidence high",
+   "url": "https://weverse.io/nct127/notice/39950",
+   "note": "Pair with the NCT 127 Manila ticketing week (Oct 17-18)."
+  },
+  {
+   "id": "C6",
+   "kind": "calendar",
+   "date": "2026-10-15",
+   "text": "2026-10-15 · ENHYPEN (former) · birthday · Heeseung (left ENHYPEN Mar 2026, now solo) birthday · - · confidence high",
+   "url": "https://kprofiles.com/enhypen-members-profile/",
+   "note": "Handle with care: he left the group; solo merch only."
+  },
+  {
+   "id": "C7",
+   "kind": "calendar",
+   "date": "2026-10-16",
+   "text": "2026-10-16 to 2026-10-18 · ENHYPEN · tour_asia · ENHYPEN WORLD TOUR 'BLOOD SAGA' Macau · Galaxy Arena, Macau · confidence medium",
+   "url": "https://kpopofficial.com/schedule/enhypen/",
+   "note": "Travel-fan content only."
+  },
+  {
+   "id": "C8",
+   "kind": "calendar",
+   "date": "2026-10-17",
+   "text": "2026-10-17 · izna · concert · izna 'WHO DAT GIRL?' concert tour in Manila · EVM Convention Center, Quezon City · confidence high",
+   "url": "https://mb.com.ph/2026/07/11/k-pop-girl-group-izna-brings-first-ever-concert-tour-to-manila-this-october",
+   "note": "Low merch priority unless the shop stocks izna; concert-day recap only."
+  },
+  {
+   "id": "C9",
+   "kind": "calendar",
+   "date": "2026-10-17",
+   "text": "2026-10-17 · NCT 127 · ticket_sale · NCT 127 'NEO CITY - THE REDLINE' Manila: NCTzen 127 membership presale · SM Tickets · confidence high",
+   "url": "https://philstarlife.com/geeky/285052-ticket-prices-seat-plan-nct-127-redline-manila-show-december",
+   "note": "Ticketing-week post: got tickets? lightstick check before Dec 12."
+  },
+  {
+   "id": "C10",
+   "kind": "calendar",
+   "date": "2026-10-18",
+   "text": "2026-10-18 · NCT 127 · ticket_sale · NCT 127 Manila general sale, 12 noon · SM Tickets · confidence high",
+   "url": "https://philstarlife.com/geeky/285052-ticket-prices-seat-plan-nct-127-redline-manila-show-december",
+   "note": "Same as above; GO cutoff that lands before Dec 12."
+  },
+  {
+   "id": "C11",
+   "kind": "calendar",
+   "date": "2026-10-19",
+   "text": "2026-10-19 · SEVENTEEN (Jeonghan X Joshua) · release · Jeonghan X Joshua 1st mini album 'DREAMSCAPE', 6 PM KST · Online · confidence high",
+   "url": "https://sports.khan.co.kr/en/article/202609282051007",
+   "note": "Album GO; Caratbong VER.3 is still the current version (no VER.4 found)."
+  },
+  {
+   "id": "C12",
+   "kind": "calendar",
+   "date": "2026-10-19",
+   "text": "2026-10-19 · IVE · release · IVE pre-release track 'Looks Can Kill' (EP follows Oct 26) · Online · confidence high",
+   "url": "https://www.soompi.com/article/1873360wpp/ive-announces-comeback-date-for-new-ep-looks-can-kill",
+   "note": "Album GO teaser."
+  },
+  {
+   "id": "C13",
+   "kind": "calendar",
+   "date": "2026-10-20",
+   "text": "2026-10-20 · TWICE · anniversary · TWICE 11th debut anniversary (debut Oct 20, 2015) · - · confidence high",
+   "url": "https://kprofiles.com/twice-members-profile/",
+   "note": "Anniversary post; Candybong content if stocked."
+  },
+  {
+   "id": "C14",
+   "kind": "calendar",
+   "date": "2026-10-23",
+   "text": "2026-10-23 · LISA (BLACKPINK) · release · LISA EP 'PRESS PLAY' (6 tracks, lead single 'SaWaDiKa') · Online · confidence medium",
+   "url": "https://www.melodicmag.com/news/album-announcements/blackpinks-lisa-announces-new-ep-press-play-to-drop-on-october-23/",
+   "note": "Album GO. Note: one outlet (Korea Times) groups it under Oct 19; LISA's announcement says Oct 23."
+  },
+  {
+   "id": "C15",
+   "kind": "calendar",
+   "date": "2026-10-23",
+   "text": "2026-10-23 · BABYMONSTER · release · BABYMONSTER new digital single, 1 PM KST (title 'DESERVE' reported only by kpopofficial, not by YG) · Online · confidence high",
+   "url": "https://www.koreajoongangdaily.com/entertainment/babymonster-to-release-new-music-on-oct-23/12906272",
+   "note": "Light content; date confirmed, title not."
+  },
+  {
+   "id": "C16",
+   "kind": "calendar",
+   "date": "2026-10-23",
+   "text": "2026-10-23 · ATEEZ · release · ATEEZ pre-release music video for 'GOLDEN HOUR : Part.6' · Online · confidence high",
+   "url": "https://www.starnewskorea.com/en/music/2026/10/09/2026100907273957106",
+   "note": "Teaser for the Nov 13 album GO."
+  },
+  {
+   "id": "C17",
+   "kind": "calendar",
+   "date": "2026-10-24",
+   "text": "2026-10-24 · ATEEZ · anniversary · ATEEZ 8th debut anniversary (debut Oct 24, 2018) · - · confidence high",
+   "url": "https://en.wikipedia.org/wiki/Ateez",
+   "note": "Anniversary post; Lightiny content if stocked."
+  },
+  {
+   "id": "C18",
+   "kind": "calendar",
+   "date": "2026-10-24",
+   "text": "2026-10-24 to 2026-10-25 · SB19 (P-pop) · festival · One Zone Fest by 1Z Entertainment; Day 2 (Oct 25) is SB19's 8th Anniversary Fanmeet · Araneta Coliseum, Quezon City · confidence high",
+   "url": "https://www.gmanetwork.com/news/lifestyle/hobbiesandactivities/1003775/one-zone-fest-sb19-1z-entertainment-ticket-prices-seat-plan/story/",
+   "note": "Only if the shop sells SB19/P-pop merch; big local fandom moment."
+  },
+  {
+   "id": "C19",
+   "kind": "calendar",
+   "date": "2026-10-24",
+   "text": "2026-10-24 to 2026-10-31 · HYBE (SEVENTEEN, TXT, ENHYPEN, BTS) · cinema · HYBE CINE FEST 2026 in PH cinemas: SEVENTEEN 'NEW_', TXT 'ACT : TOMORROW', ENHYPEN 'BLOOD SAGA' tour films + 3D 'cheering party' where fans wave light sticks · SM cinemas incl. SM Mall of Asia · confidence high",
+   "url": "https://billboardphilippines.com/music/news/hybe-cine-fest-2026-bts-concert-films-philippines/",
+   "note": "Quick win: 'bring your lightstick to the cinema' checklist (battery, app connect)."
+  },
+  {
+   "id": "C20",
+   "kind": "calendar",
+   "date": "2026-10-24",
+   "text": "2026-10-24 · TWS · tour_asia · TWS '24/7:FOR:YOU' Kaohsiung (no Manila stop on this tour) · Kaohsiung Arena · confidence high",
+   "url": "https://www.bandwagon.asia/articles/tws-announce-24-7-for-you-asia-tour-hitting-macau-bangkok-singapore-kaohsiung-more",
+   "note": "-"
+  },
+  {
+   "id": "C21",
+   "kind": "calendar",
+   "date": "2026-10-25",
+   "text": "2026-10-25 · BTS · cinema · BTS ARIRANG Buenos Aires concert live viewing in PH cinemas · PH cinemas (see btsliveviewing.com) · confidence high",
+   "url": "https://billboardphilippines.com/music/news/hybe-cine-fest-2026-bts-concert-films-philippines/",
+   "note": "First 'together' Armybomb moment before Bulacan: v4 vs old version content."
+  },
+  {
+   "id": "C22",
+   "kind": "calendar",
+   "date": "2026-10-26",
+   "text": "2026-10-26 · IVE · release · IVE EP 'Looks Can Kill' · Online · confidence high",
+   "url": "https://www.soompi.com/article/1873360wpp/ive-announces-comeback-date-for-new-ep-looks-can-kill",
+   "note": "Album GO."
+  },
+  {
+   "id": "C23",
+   "kind": "calendar",
+   "date": "2026-10-26",
+   "text": "2026-10-26 · ILLIT · release · ILLIT 5th mini album 'BREAK EVEN', 6 PM KST · Online · confidence high",
+   "url": "https://sports.khan.co.kr/en/article/202609150704007",
+   "note": "Album GO."
+  },
+  {
+   "id": "C24",
+   "kind": "calendar",
+   "date": "2026-10-26",
+   "text": "2026-10-26 · RIIZE · release · RIIZE digital single, prologue to 2nd full album · Online · confidence high",
+   "url": "https://www.soompi.com/article/1870026wpp/?p=1870026",
+   "note": "Light content."
+  },
+  {
+   "id": "C25",
+   "kind": "calendar",
+   "date": "2026-10-26",
+   "text": "2026-10-26 · SB19 (P-pop) · anniversary · SB19 8th debut anniversary (debut Oct 26, 2018) · - · confidence high",
+   "url": "https://en.wikipedia.org/wiki/SB19",
+   "note": "Only if relevant to the shop's catalog."
+  },
+  {
+   "id": "C26",
+   "kind": "calendar",
+   "date": "2026-10-31",
+   "text": "2026-10-31 · BTS · cinema · BTS ARIRANG Sao Paulo concert live viewing in PH cinemas · PH cinemas · confidence high",
+   "url": "https://billboardphilippines.com/music/news/hybe-cine-fest-2026-bts-concert-films-philippines/",
+   "note": "Same as Oct 25."
+  },
+  {
+   "id": "C27",
+   "kind": "calendar",
+   "date": "2026-11",
+   "text": "2026-11 · ENHYPEN · release · ENHYPEN comeback, November target (date and format TBA; agency confirmed) · Online · confidence high",
+   "url": "https://koreaherald.com/article/10887566",
+   "note": "Album GO; bundle with the renewal lightstick (installment)."
+  },
+  {
+   "id": "C28",
+   "kind": "calendar",
+   "date": "2026-11-02",
+   "text": "2026-11-02 · TWS · release · TWS 2nd single album 'TO US', 6 PM KST · Online · confidence high",
+   "url": "https://www.koreajoongangdaily.com/entertainment/boy-band-tws-to-drop-second-single-to-us-in-november/12908739",
+   "note": "Album GO."
+  },
+  {
+   "id": "C29",
+   "kind": "calendar",
+   "date": "2026-11-07",
+   "text": "2026-11-07 to 2026-11-08 · Various · award_show · 3rd Korea Grand Music Awards (KGMA) · Gocheok Sky Dome, Seoul · confidence high",
+   "url": "https://www.soompi.com/article/1846650wpp/nam-ji-hyun-and-rescenes-woni-to-host-2026-korea-grand-music-awards",
+   "note": "Award-night recap; no merch tie-in."
+  },
+  {
+   "id": "C30",
+   "kind": "calendar",
+   "date": "2026-11-07",
+   "text": "2026-11-07 to 2026-11-08 · BABYMONSTER · tour_asia · BABYMONSTER 'CHOOM' Bangkok (Manila was Sept 5, 2026) · IMPACT Arena, Bangkok · confidence medium",
+   "url": "https://kpopofficial.com/schedule/asia/",
+   "note": "-"
+  },
+  {
+   "id": "C31",
+   "kind": "calendar",
+   "date": "2026-11-07",
+   "text": "2026-11-07 · SEVENTEEN · birthday · The8 birthday · - · confidence high",
+   "url": "https://kprofiles.com/seventeen-members-profile/",
+   "note": "Birthday post; pair with that group's lightstick."
+  },
+  {
+   "id": "C32",
+   "kind": "calendar",
+   "date": "2026-11-09",
+   "text": "2026-11-09 · Yves · concert · Yves 2026 tour, Manila stop · The Filinvest Tent, Alabang · confidence medium",
+   "url": "https://www.soompi.com/article/1818491wpp/2026-philippines-k-pop-tour-maste",
+   "note": "Low merch priority."
+  },
+  {
+   "id": "C33",
+   "kind": "calendar",
+   "date": "2026-11-09",
+   "text": "2026-11-09 · TWICE · birthday · Momo birthday · - · confidence high",
+   "url": "https://kprofiles.com/twice-members-profile/",
+   "note": "Birthday post; pair with that group's lightstick."
+  },
+  {
+   "id": "C34",
+   "kind": "calendar",
+   "date": "2026-11-13",
+   "text": "2026-11-13 · ATEEZ · release · ATEEZ 15th mini album 'GOLDEN HOUR : Part.6', 2 PM KST · Online · confidence high",
+   "url": "https://sports.khan.co.kr/en/article/202610081046007",
+   "note": "Album GO; Lightiny VER.3 (revealed Apr 2026) content."
+  },
+  {
+   "id": "C35",
+   "kind": "calendar",
+   "date": "2026-11-13",
+   "text": "2026-11-13 to 2026-11-15 · TXT · concert · TXT world tour 'STEAL THE WIND' opens in Seoul (no Manila date announced; more stops TBA) · Seoul · confidence high",
+   "url": "https://consequence.net/2026/08/tomorrow-x-together-2026-2027-steal-the-wind-world-tour-dates/",
+   "note": "Watch for a Manila add; until then, album content only."
+  },
+  {
+   "id": "C36",
+   "kind": "calendar",
+   "date": "2026-11-14",
+   "text": "2026-11-14 to 2026-11-15 · Various · award_show · Melon Music Awards (MMA2026), first two-day edition · Gocheok Sky Dome, Seoul · confidence high",
+   "url": "https://www.soompi.com/article/1846316wpp/melon-music-awards-2026-announces-dates-and-details",
+   "note": "Award-night recap."
+  },
+  {
+   "id": "C37",
+   "kind": "calendar",
+   "date": "2026-11-14",
+   "text": "2026-11-14 · BABYMONSTER · tour_asia · BABYMONSTER 'CHOOM' Kuala Lumpur · Unifi Arena, KL · confidence medium",
+   "url": "https://kpopofficial.com/schedule/asia/",
+   "note": "-"
+  },
+  {
+   "id": "C38",
+   "kind": "calendar",
+   "date": "2026-11-14",
+   "text": "2026-11-14 to 2026-11-15 · LE SSERAFIM · tour_asia · LE SSERAFIM 'PUREFLOW' Taipei · Taipei · confidence high",
+   "url": "https://www.bandwagon.asia/articles/it-s-a-celebration-le-sserafim-set-to-hit-taipei-singapore-manila-more-as-part-of-pureflow-tour",
+   "note": "-"
+  },
+  {
+   "id": "C39",
+   "kind": "calendar",
+   "date": "2026-11-15",
+   "text": "2026-11-15 · wave to earth (Korean band) · concert · wave to earth 'the pieces tour' Manila · SM Mall of Asia Arena, Pasay · confidence medium",
+   "url": "https://billboardphilippines.com/music/features/concert-music-festival-guide-manila-philippines-2026-ticket-guide/",
+   "note": "Low merch relevance (band, no lightstick)."
+  },
+  {
+   "id": "C40",
+   "kind": "calendar",
+   "date": "2026-11-15",
+   "text": "2026-11-15 · ENHYPEN · birthday · Jake birthday · - · confidence high",
+   "url": "https://kprofiles.com/enhypen-members-profile/",
+   "note": "Birthday post; pair with that group's lightstick."
+  },
+  {
+   "id": "C41",
+   "kind": "calendar",
+   "date": "2026-11-16",
+   "text": "2026-11-16 · TXT · release · TXT 9th mini album 'PERFECT STORM' (6 tracks) · Online · confidence high",
+   "url": "https://www.soompi.com/article/1873466wpp/txt-announces-comeback-date-and-details-for-return-with-perfect-storm",
+   "note": "Album GO + MOA bong content (the shop has sold MOA bong before)."
+  },
+  {
+   "id": "C42",
+   "kind": "calendar",
+   "date": "2026-11-17",
+   "text": "2026-11-17 · aespa · anniversary · aespa 6th debut anniversary (debut Nov 17, 2020) · - · confidence high",
+   "url": "https://kprofiles.com/aespa-members-profile/",
+   "note": "Anniversary post."
+  },
+  {
+   "id": "C43",
+   "kind": "calendar",
+   "date": "2026-11-18",
+   "text": "2026-11-18 · Various · award_show · MAMA 2026 Fans' Choice voting round 2 closes (runs Oct 28 to Nov 18 on Mnet Plus) · Online · confidence high",
+   "url": "https://www.soompi.com/article/1877350wpp/2026-mama-awards-announces-nominees-fans-choice-voting-begins",
+   "note": "Voting-reminder post for fandoms."
+  },
+  {
+   "id": "C44",
+   "kind": "calendar",
+   "date": "2026-11-19",
+   "text": "2026-11-19 to 2026-11-22 · BTS · tour_asia · BTS ARIRANG Kaohsiung: Nov 19, 21, 22 · Kaohsiung National Stadium · confidence high",
+   "url": "https://en.wikipedia.org/wiki/Arirang_World_Tour",
+   "note": "-"
+  },
+  {
+   "id": "C45",
+   "kind": "calendar",
+   "date": "2026-11-20",
+   "text": "2026-11-20 to 2026-11-21 · Various · award_show · 2026 MAMA AWARDS · Kyocera Dome Osaka, Japan · confidence high",
+   "url": "https://newsroom.cj.net/2026-mama-awards-to-take-place-in-japan-from-november-20-21/",
+   "note": "Watch-party / recap content; not in PH."
+  },
+  {
+   "id": "C46",
+   "kind": "calendar",
+   "date": "2026-11-21",
+   "text": "2026-11-21 · Lee Minhyuk / HUTA (BTOB) · concert · 2026 Lee Minhyuk (HUTA) concert 'HEAT MAX' Manila, 7 PM · SM North EDSA Skydome, Quezon City · confidence medium",
+   "url": "https://buzzsetter.com/lee-minhyuk-huta-heat-max-manila-concert-2026/",
+   "note": "Low merch priority."
+  },
+  {
+   "id": "C47",
+   "kind": "calendar",
+   "date": "2026-11-21",
+   "text": "2026-11-21 · Gong Yoo (actor) · fan_meeting · Gong Yoo Asia fan meeting tour 'THE LONG TAKE' in Manila · Araneta Coliseum, Quezon City · confidence medium",
+   "url": "https://www.pulpliveworld.com/",
+   "note": "K-drama, not K-pop; skip unless the shop sells drama merch."
+  },
+  {
+   "id": "C48",
+   "kind": "calendar",
+   "date": "2026-11-21",
+   "text": "2026-11-21 to 2026-11-22 · TXT · tour_asia · TXT 'STEAL THE WIND' Macau · Macau · confidence high",
+   "url": "https://consequence.net/2026/08/tomorrow-x-together-2026-2027-steal-the-wind-world-tour-dates/",
+   "note": "-"
+  },
+  {
+   "id": "C49",
+   "kind": "calendar",
+   "date": "2026-11-22",
+   "text": "2026-11-22 · SEVENTEEN · birthday · Woozi birthday · - · confidence high",
+   "url": "https://kprofiles.com/seventeen-members-profile/",
+   "note": "Birthday post; pair with that group's lightstick."
+  },
+  {
+   "id": "C50",
+   "kind": "calendar",
+   "date": "2026-11-25",
+   "text": "2026-11-25 · HYBE groups (SEVENTEEN, ENHYPEN, TXT, BTS, LE SSERAFIM, BOYNEXTDOOR...) · merch · EXPECTED: HYBE 2027 Season's Greetings pre-orders. Not announced; based on 2025 pattern (SEVENTEEN 2026 SG pre-order opened Nov 25, 2025) · Weverse Shop · confidence expected",
+   "url": "https://weverse.io/seventeen/notice/32004",
+   "note": "SG installment GO (the shop's 'ENHYPEN SG 2023 for installment' post had 43K views). Confirm via Weverse notices."
+  },
+  {
+   "id": "C51",
+   "kind": "calendar",
+   "date": "2026-11-25",
+   "text": "2026-11-25 · Stray Kids · release · RUMOR / CONFLICTING: Japanese EP 'Suiatsu' (only an English Wikipedia row says Nov 25, 2026; official Japan site shows nothing) · - · confidence rumor",
+   "url": "https://en.wikipedia.org/wiki/Stray_Kids_discography",
+   "note": "Do not stock until confirmed."
+  },
+  {
+   "id": "N1",
+   "kind": "news (urgent)",
+   "date": "2026-10-13",
+   "text": "NO NEED TO WISH, FILO CZENNIES 😉🇵🇭 NCT WISH is coming back to the Philippines! The group announced on Instagram that it will bring its “Into the Wish: Face Our Wish” concert tour to Manila on Feb. 13, 2027. Courtesy: NCT WISH/Instagram Read more [gnews: K-pop concert Manila (Facebook)]",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWRfbUVSN1ZodGc0UTIwT3hsek9kaUNuN2NLbFBCbngxbWYzbUNrQzUzYlJ2SXoyeURJT2xGaF93V1YzejNCU0pfMWlDOEx5MzVLbEFOaHFZbW43cmVJQXFBbWwtdEZIb0d0MjNSTE9RVW1mU0JUSjB2d3R4MERfN3cycjAzaTNYNjFaSF8ySzRPUkJpYWlyUjBfYUtjMmNFLXlMUUF1VzBKWVJQcU5GMHpvS29vaTJNQWVkdTlQYVdDX2IzYm5xUGxsZHZuSG82ZXF3?oc=5"
+  },
+  {
+   "id": "N2",
+   "kind": "news (urgent)",
+   "date": "2026-10-12",
+   "text": "NCT WISH Announce Manila Stop For ‘INTO THE WISH : Face Our WISH’ Concert Tour In 2027 [gnews: K-pop concert Manila (Billboard Philippines)]",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0NXUnV0SUh5TGpXTFVncjhteDRWWnJiQWNKNlpUbHdJWWZoT01hcVVLekZiMkhTYkl3TndjbUJuYkphMTNjZWVGR2NJTnp1VjdHNnJuYlB6NDBLaXc4OTFJOXdmaFVRZDF4OTZGZVZNSUdMZ3Nlc21LWlo4VFpMTkhZUjNSYkpSdVR0ajlqajVta3Z1R0IyZQ?oc=5"
+  },
+  {
+   "id": "N3",
+   "kind": "news (urgent)",
+   "date": "2026-10-10",
+   "text": "Enhypen brings concert energy to Manila fan meet [gnews: K-pop concert Manila (The Manila Times)]",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcmJCd08wbG80bUZRQnZxYXpFTloxcnJZMkZaSjBZNmJ0Q0xqaHUxRjcwUFE5WGctMFNVSzB3TWZpdEE0Z0p5TnZZd3Jja2hMaENqQS1oQ0tURlZyZk95OUpSNEN1YVJ4TTFpY3lQZzYwek9rQXpKU0NWZlM1UXE2RFpMYm5zUF9TWUNWOWo1Ui0zQXB4dFpjckdlUFBtd0JnMk1IZUlQWTl6ZjB0TmlhVktmTTZaSVcxT0NIc1pTWmZLNWM2R1Nld2xuMNIB0AFBVV95cUxQT2pWYnoyVmtOanVlOTROcTVGUWZ1N1VWQjZhdlp4dlI5bndrdHFDakFCd3k2T2dvYU5oNllReG9BRUdaWnJJTk9qOTMxazhLaWZySm1IT3RNQUdLS3ZYQXpMeWl6V052ZXlvOTAxYU52RmtQa0lpZVVBUVN1a21XcmEwVlQ2ZG9WN2RYMzVHclJwcVRMU1FUUG5FeFk4RENHOEptVHZqLTFXdkt0eUpOdGhTZTl5SjRpX3VYY1ByX0lwTUg0c2VBLWo3VDVUdzBS?oc=5"
+  },
+  {
+   "id": "N4",
+   "kind": "news (urgent, undated)",
+   "date": "",
+   "text": "BTS WORLD TOUR ‘ARIRANG' IN BULACAN [Live Nation PH] (no publish date; first seen by our watcher 2026-10-14, which is not the announcement date)",
+   "url": "https://www.livenation.ph/"
+  },
+  {
+   "id": "N5",
+   "kind": "news (urgent, undated)",
+   "date": "",
+   "text": "2026 LE SSERAFIM TOUR 'PUREFLOW' IN MANILA [PULP Live World] (no publish date; first seen by our watcher 2026-10-14, which is not the announcement date)",
+   "url": "https://www.pulpliveworld.com/"
+  },
+  {
+   "id": "N6",
+   "kind": "news (urgent, undated)",
+   "date": "",
+   "text": "NCT 127 5TH TOUR 'NEO CITY : MANILA - THE REDLINE' [PULP Live World] (no publish date; first seen by our watcher 2026-10-14, which is not the announcement date)",
+   "url": "https://www.pulpliveworld.com/"
+  },
+  {
+   "id": "N7",
+   "kind": "news (urgent, undated)",
+   "date": "",
+   "text": "2026 LE SSERAFIM TOUR PUREFLOW IN MANILA DECEMBER 5 [SM Tickets] (no publish date; first seen by our watcher 2026-10-14, which is not the announcement date)",
+   "url": "https://www.smtickets.com/events/view/18350"
+  },
+  {
+   "id": "N8",
+   "kind": "news (urgent, undated)",
+   "date": "",
+   "text": "2026 LE SSERAFIM TOUR PUREFLOW IN MANILA DECEMBER 6 [SM Tickets] (no publish date; first seen by our watcher 2026-10-14, which is not the announcement date)",
+   "url": "https://www.smtickets.com/events/view/18422"
+  },
+  {
+   "id": "N9",
+   "kind": "news (urgent, undated)",
+   "date": "",
+   "text": "BTS WORLD TOUR ARIRANG BUENOS AIRES LIVE VIEWING [Ticketnet] (no publish date; first seen by our watcher 2026-10-14, which is not the announcement date)",
+   "url": "https://www.ticketnet.com.ph/"
+  },
+  {
+   "id": "N10",
+   "kind": "news (normal)",
+   "date": "2026-10-14",
+   "text": "Charlie Puth, Jason Mraz, K-pop favorites light up the holiday season at SM MOA Arena [gnews: K-pop concert Manila (Speed)]",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBabUtQc0NLREo5TGR1Y056c1d4a1FUX0dheWhvVXB0U0VmdTI0WmRQWFlzR1RmdzFhNGhiQzFlYWtzWDl3Q0JsS09pa0F6ZjhWeFJlbkhZTExJTVdyM1E?oc=5"
+  },
+  {
+   "id": "N11",
+   "kind": "news (normal)",
+   "date": "2026-10-14",
+   "text": "[NOTICE] TWS 2nd Single Album 'TO US' Pr [gnews: Weverse notices (Weverse)]",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NaGhiUGpJN1pkd0tKcnVFVFdKdXgtXzE1OHBXel9kS0YxS0VoYUlhSU91RTZrTW85dFJIenB3OFdxV0NPemJQblBpcw?oc=5"
+  },
+  {
+   "id": "N12",
+   "kind": "news (normal)",
+   "date": "2026-10-13",
+   "text": "NCT DREAM 2027 Season's Greetings (Wall Calendar) [gnews: Weverse Season's Greetings (Weverse Shop)]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40bDRzWFZYaWctN3NXMjlta2t5TjJxNWJzTzF6UXJnUThPQmVVRjBkc3d0UGxBcGQwekx1aEh2Vmd0Zk5XclB4ME9TVDdyYjZzMlREOXVLRExkZHRDVnBoS3lzSVdlZGc?oc=5"
+  },
+  {
+   "id": "N13",
+   "kind": "news (normal)",
+   "date": "2026-10-13",
+   "text": "TREASURE Announces November Comeback Date And Details For “SHOCK” [Soompi]",
+   "url": "https://www.soompi.com/article/1877872wpp/treasure-announces-november-comeback-date-and-details-for-shock"
+  },
+  {
+   "id": "N14",
+   "kind": "news (normal)",
+   "date": "2026-10-13",
+   "text": "[Notice] KATSEYE : THE WILDWORLD TOUR IN NORTH AMERICA, EU, & UK Hashtag Event [gnews: Weverse notices (Weverse)]",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SNEVmRVdSZEFYWUVQVVNPU3dXWmQzS2tZc09MSnAtRW54ME9DYzZkZEFBcHkzeFgxNEI0VHA0ekZlaDVJTl9hNW9paDFPLXpT?oc=5"
+  },
+  {
+   "id": "N15",
+   "kind": "news (normal)",
+   "date": "2026-10-13",
+   "text": "NCT WISH 2027 Season's Greetings (Set) [gnews: Weverse Season's Greetings (Weverse Shop)]",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44VnU1VFcyRDZXVWFZMjhtNzZVN1ZIaVRZUnh3X1U4NjM3blkxY0k2Z1ZrNmFBb2QzWlppNlRvNDFYQW8xc196LTR3bHRQa2dZNjhIRXRRVFBxRnpEaC1wZ3pWcFRKaTRHc1hR?oc=5"
+  },
+  {
+   "id": "N16",
+   "kind": "news (normal)",
+   "date": "2026-10-13",
+   "text": "NCT WISH’s “I SPY” Becomes Their 2nd Album To Surpass 1 Million 1st-Day Sales [Soompi]",
+   "url": "https://www.soompi.com/article/1877864wpp/nct-wishs-i-spy-becomes-their-2nd-album-to-surpass-1-million-1st-day-sales"
+  },
+  {
+   "id": "N17",
+   "kind": "news (normal)",
+   "date": "2026-10-13",
+   "text": "ENHYPEN | ENGENE MEMBERSHIP KIT [gnews: Weverse membership (Weverse Shop)]",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55YXhvYllUdjVwT2xiRm5NUTluRHd3MXpMdE1na2kyUEg1ZkIwdnZrT0tVRTEzTGVCLW5nXzhxWVYydDdPbGxuT0FGOU1IUEM2aExUWkNuTjNxdVFxc280bk1pZGhlTDR1emc?oc=5"
+  },
+  {
+   "id": "N18",
+   "kind": "news (normal)",
+   "date": "2026-10-13",
+   "text": "NCT DREAM 2027 Season's Greetings (Set) [gnews: Weverse Season's Greetings (Weverse Shop)]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OWFBNRHFQTXNNWjVOM180MC1pc2tkX2YtalFMQ3FfbHNHNGt6TmFBMVd6WXdhRDQ1THRuNFhvbEU4ZUFwNkdDYmdjckpBbTc1U2gzaVpONExsR25FNTc2MHgxZUEwM28?oc=5"
+  },
+  {
+   "id": "N19",
+   "kind": "news (normal)",
+   "date": "2026-10-13",
+   "text": "[NOTICE] ENHYPEN WORLD TOUR ‘BLOOD SAGA’ IN MACAU Official Light Stick & Band User Guide [gnews: ENHYPEN light stick renewal (Weverse)]",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YbjFLYjZpbjIzOHMtTWVON2U2SnR5QjRVM3lJang1ZW1PbmJIRFZVcVh2bkJ6bERDNmN1M3VPb0lkUEVKZUdTMklOQU1rLWxf?oc=5"
+  },
+  {
+   "id": "N20",
+   "kind": "news (normal)",
+   "date": "2026-10-13",
+   "text": "RIIZE | RIIZE 2027 Season's Greetings (Kit) [gnews: Weverse Season's Greetings (Weverse Shop)]",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nTmI4TGtMZlM4YnJ4dDJKa3h2SUt6U1VMRUg5QldLSmh2ejhfTjhVWmtEeUI5UVlRdXRsZEQ2Wk01VGJ4eTZ6ZFh2aUFiUm1iYVhldURFUHY3OEowMDI2VFhCQkxaRXBQWjk0?oc=5"
+  },
+  {
+   "id": "N21",
+   "kind": "news (normal)",
+   "date": "2026-10-12",
+   "text": "LE SSERAFIM | FEARNOT MEMBERSHIP (US) [gnews: Weverse membership (Weverse Shop)]",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00VmRoVkhoODZITFkydUtYTWdqOFZ2dWpHVDZBTDJBNTFCZXJmVE4yWUNDOGIwT29WTHdVcS0yZngzM2hlMkdScG5jalBjcUR0bGl1VEh1NFVkOEJrbmF1YXBIV0puQXJYTFE?oc=5"
+  },
+  {
+   "id": "N22",
+   "kind": "news (normal)",
+   "date": "2026-10-12",
+   "text": "BTS expands ‘ARIRANG’ world tour to 88 shows with new dates added [gnews: K-pop Bulacan / Philippine Arena (Bol News)]",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa2FSbjRFX1VITXR5UG5LWDZkWGlNRkNUU1VIWEduTDRJMDc0bS1INDN1RTBwVENIaGFveHJkVWVKOG1kTmlkdi01bUJmSXEwVnZxU3VHVkl1d1FfeExCZEFfUzFldl9xcFd0WlQwbHlLRXpQMGdrc1k4M19FT0p6bURNZE5HTjZXZ3g0dGNkb0pMSHR4VW1WOG5BVVFnZVljZTM4?oc=5"
+  },
+  {
+   "id": "N23",
+   "kind": "news (normal)",
+   "date": "2026-10-12",
+   "text": "[NOTICE] JEONGHAN X JOSHUA ‘DREAMSCAPE’ POP-UP Visit Guide [gnews: Weverse notices (Weverse)]",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TZXNMcFRQdk04Vk5rQ2NwQUFrTm9ra3ZSY1J4ZHBLNVhqWV83VmoyTDB1aGQ0MWZkcTZMdWt1NFE2VkpHd2Nkay10Y2twVVZiOHNn?oc=5"
+  },
+  {
+   "id": "N24",
+   "kind": "news (normal)",
+   "date": "2026-10-12",
+   "text": "ENHYPEN | ENGENE MEMBERSHIP (US) [gnews: Weverse membership (Weverse Shop)]",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oSkdyTFRKVWpqS2N6aFk5c0ZucllDYWhfUzNBLWZZNUtLbkpvZnZCSXpwOXg5VzFVQjlxcXlheVBpclI4ZElDRWhJa1FLa1h2bllIaUttLWI5aFVlajlDMDQ3R3lJZkw2UzRyR0F3?oc=5"
+  },
+  {
+   "id": "N25",
+   "kind": "news (normal)",
+   "date": "2026-10-12",
+   "text": "[NOTICE] On-Site Sales of ILLIT LIVE ‘PRESS START♥︎’ ENCORE in KOREA Official Merchandise and Other Booths [gnews: Weverse light stick (Weverse)]",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QQm0zNXdQaHB1SFpuU2JjRi1aTWl5MV9PY3dvdzZ6bzlJQ1h1aTRZeTkwcFUwVUZvOGJfZ1lRN1hFZlVYLXpwdXZiemNQZw?oc=5"
+  },
+  {
+   "id": "N26",
+   "kind": "news (normal)",
+   "date": "2026-10-12",
+   "text": "[NOTICE] LE SSERAFIM 2nd Single Album 'Made My Night' LUCKY DRAW 3차 이벤트 안내 [gnews: Weverse notices (Weverse)]",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50c0ZfMFdNZ1FwRWVVOExiVE0zZy0zdk4xZzZtSXl0b0R6bTRiel9XNXoxOGZ5c0RTUkZxa0dlZG9wblo4WmRHcnphWkMtbzlGS0xIZw?oc=5"
+  },
+  {
+   "id": "N27",
+   "kind": "news (normal)",
+   "date": "2026-10-11",
+   "text": "ATEEZ ZERO TO ALL 2027: seven concert dates in Europe [gnews: K-pop concert Manila (KarloBag.eu)]",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWnRQQXFId0VTbEUxaXFFYWRrc0RJTU5Dd1YzeXU3amJ2MkcyU2gzTGtTUWtGcGFsdmg1ajh4a1NBaE92dXhPSVN2Y1FMSElBUDNFeUdtRkNQS0x1MFpSdVdGbzBFdzg2NHhYZExaYXBYNFFHYzhBSDh3akQyQVlsR3liV2x2Z3RpZzBpSmFHVVNDV09veWozWl92SjJkakstSHRZS0dHZWlYS1lDZFhVZDdIS0JBYjQ?oc=5"
+  },
+  {
+   "id": "N28",
+   "kind": "news (normal)",
+   "date": "2026-10-11",
+   "text": "[Notice] ‘KATSEYE: THE WILDWORLD TOUR’ i [gnews: Weverse notices (Weverse)]",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HMFdWenpGMVNxcFVtMFo1VTJzeHUzekktdE9nZGFUdlRzN3gtV1ZsenpDeUxRa1d4MUVyTjFXcUYzdUxycHloOFI0c0FVTExZ?oc=5"
+  },
+  {
+   "id": "N29",
+   "kind": "news (normal)",
+   "date": "2026-10-11",
+   "text": "[NOTICE] NCT WISH 2nd CONCERT TOUR ‘INTO THE WISH : Face Our WISH’ Tour Announcement [gnews: Weverse notices (Weverse)]",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwdnJLSFVaTlZuSGdwMGlKOVZQSHltM0p4d1hQSDdILWJpalpXX2pJM2FGTWhKVm8wUnozRjdzUGRSMGJQTWxNSFAtVmVzY214?oc=5"
+  },
+  {
+   "id": "N30",
+   "kind": "news (normal)",
+   "date": "2026-10-11",
+   "text": "[NOTICE] On-Site Sales of BTS WORLD TOUR ‘ARIRANG’ IN SANTIAGO Official Merchandise and Other Booths [gnews: Weverse light stick (Weverse)]",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50LTZxWXRmZzRTMXlEaFZQWWRBYlVpdHp5ZVlLWnZ2aUFWZEVsTGUxQUx2QnBYVktzb3d1bTJabkhidExySGhUMWRURQ?oc=5"
+  },
+  {
+   "id": "N31",
+   "kind": "news (normal)",
+   "date": "2026-10-11",
+   "text": "[공지] NCT WISH 2nd CONCERT TOUR ‘INTO THE WISH : Face Our WISH’ 투어 일정 안내 [gnews: Weverse notices (Weverse)]",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsVDhJaVRkN2J5akVYcTJUZWhBM1l5R09XVDBKeTlkN2l4OTZ0RktQeGYwU3UwQVRyMjNPSVE0bkNxblNwUERZbmxQSmxlTTFTVllMbDZFNDM?oc=5"
+  },
+  {
+   "id": "N32",
+   "kind": "news (normal)",
+   "date": "2026-10-11",
+   "text": "NCT WISH Announces Stops For 2nd Concert Tour \"INTO THE WISH : Face Our WISH\" [gnews: K-pop concert Manila (Soompi)]",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMVJJZHZYMHBOblRqTjU0alpPaWJBa05pX1RSM2l6M0VGbWNiazB3VldfUG9xQ194M2RpdnJaZGoyV3R2eGRUUGlTbWVzUVVfa0RLZ3dyMl85QnFLeFo3RGYyTklSZ0pmS3pUcnBGeXpNNjFCWmV0U19aNXdhYU4yNVQzT2hCOVRTdW5KRno1clBOU0xmR2pvTVotVnpoUlpzTUJDUXFSXzdJSkRmOWRZUnk2ZndaUQ?oc=5"
+  },
+  {
+   "id": "N33",
+   "kind": "news (normal)",
+   "date": "2026-10-10",
+   "text": "SEVENTEEN 2024 SEASON'S GREETINGS [gnews: Weverse Season's Greetings (Weverse Shop)]",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyMjBxRFhsdGdNTEZGOThwOElLclRCTGlsVEJSa0szQkdvcEpCdDNlVm45blB6TXJsdW1pa3lRc2xyMkduVjJ5T2xHcnRveEp5VEpDcGNjZk1pcWFsUk9fTWg1eWw?oc=5"
+  },
+  {
+   "id": "N34",
+   "kind": "news (normal)",
+   "date": "2026-10-08",
+   "text": "THE FULL ENGENE EXPERIENCE K-pop group ENHYPEN gave Filipino ENGENES a night they will never forget during the \"Endless Dunkin' | ENHYPEN Fun Meet.\" Full story link in the comments section. [gnews: K-pop concert Manila (Facebook)]",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYWhXeS0wMkdaYjhuTEdaTHNaN2ZlSk9tUi10VE1aT1gwV3cyVExYQ1JjOEJPbVhhdEtMRm56V3VYQVI5bkRVeXFwNmRCWlJ3d3ozVlAxdzRiTk51T2dEOHBYWmhvWTlYZ3ptRDFuUDdadFBXaU5oaTFYNnhpVzBlaGlheUN5Z1FGbm1pX195QVRqWWduRC03bUdfdGhUT3FLd3QtRzRqQlhvdGprTF9YUU1jbG5XUERIejN0eW8tWF9IV2FBVGlzeTE4WFE5cDIyR2JtSWhGUQ?oc=5"
+  },
+  {
+   "id": "N35",
+   "kind": "news (normal)",
+   "date": "2026-10-08",
+   "text": "[NOTICE] BTS POP-UP : ARIRANG IN BUENOS AIRES Terms & Conditions [gnews: Weverse notices (Weverse)]",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yaFh4NmJnLV9hZUtpZDcxZGhrb3lmNWpKRndvc3VPTVN2Zy1Rd1JmbXdwRFVweU1pUWVFaGl2bE5pbE01TnlCazdMRQ?oc=5"
+  },
+  {
+   "id": "N36",
+   "kind": "news (normal)",
+   "date": "2026-10-07",
+   "text": "[Notice] TXT GLOBAL OFFICIAL FANCLUB MOA MEMBERSHIP KIT Preview [gnews: Weverse membership (Weverse)]",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wVlE4UTdlOFFYUV9oN0JtWnNWR3NQUThVc3Fqc0VEWTNxMnZQMmIxRjdpX2JtWG4xckRwRzVLSzhRNC04WmdncElXY3VDUm1sc2c?oc=5"
+  },
+  {
+   "id": "N37",
+   "kind": "news (normal)",
+   "date": "2026-10-07",
+   "text": "BTS Merch - BTS × BE@RBRICK [gnews: Weverse membership (Weverse Shop)]",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQXNOMFhTczBwb3lTYnNicngyckw0ZTBydS1ZT3VMMk9nX1JtSHhNdUFnUkVMWkxyTk5EZndNSXJoNkpCZG9LaDJveHBSSkZQYXRwWGtIel9COTd3bm1Gb1Vyb1BLTUMxOUdCU3ZRR0ZLVHROMkxiYzIxZk5xLWhlMURvNkFDZw?oc=5"
+  },
+  {
+   "id": "N38",
+   "kind": "news (normal)",
+   "date": "2026-10-06",
+   "text": "[Weverse Global] Pre-order BTS × BE@RBRICK Official Merch [Weverse Shop notices: BTS]",
+   "url": "https://shop.weverse.io/en/shop/USD/artists/2/notices/14525"
+  },
+  {
+   "id": "N39",
+   "kind": "news (normal)",
+   "date": "2026-10-06",
+   "text": "[Weverse Global] Pre-order 2026 SVT 10TH FAN MEETING <SEVENTEEN in CARAT LAND> MEMORY BOOK+ [Weverse Shop notices: SEVENTEEN]",
+   "url": "https://shop.weverse.io/en/shop/USD/artists/7/notices/14478"
+  },
+  {
+   "id": "N40",
+   "kind": "news (normal)",
+   "date": "2026-10-06",
+   "text": "[Weverse Global] Pre-order BOYNEXTDOOR 1st Studio Album Repackage [HOME: DELUXE] (SAFARI ver.) [Weverse Shop notices: BOYNEXTDOOR]",
+   "url": "https://shop.weverse.io/en/shop/USD/artists/112/notices/14499"
+  },
+  {
+   "id": "N41",
+   "kind": "news (normal)",
+   "date": "2026-10-05",
+   "text": "[알림] NCT WISH The 4th Mini Album ‘I SPY’ - PREVIEW [gnews: Weverse notices (Weverse)]",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41alJ3SzFwSWlzeGlYbi1GMWdkaGdXcXBmRzB2VTZJRUV3dVY4WWZjVGJlaXdqSnY2ZkhHUkg4dGNuNFdHTUtJSzZCMW0ta3Y4?oc=5"
+  },
+  {
+   "id": "N42",
+   "kind": "news (normal)",
+   "date": "2026-10-04",
+   "text": "[NOTICE] On-Site Sales of BTS WORLD TOUR ‘ARIRANG’ IN LIMA Official Merchandise and Other Booths [gnews: Weverse light stick (Weverse)]",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1SG8xdER0ZWNGVnAzWWpqYjY3eWpwZUZuZ2JXY0xLUUNrR0tNcmdnREs0WWVpanhEdHpyaHNEcm11c3pORXFaMzRHNA?oc=5"
+  },
+  {
+   "id": "Q1",
+   "kind": "fan question",
+   "date": "2026-09-26",
+   "text": "Meron pa po? (type: stock: available pa?; replies: yes)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7657834982467030279"
+  },
+  {
+   "id": "Q2",
+   "kind": "fan question",
+   "date": "2026-08-09",
+   "text": "mag kano ang lightstick nila? (type: other question; replies: yes)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7657834982467030279"
+  },
+  {
+   "id": "Q3",
+   "kind": "fan question",
+   "date": "2026-07-02",
+   "text": "may Asa pa po na pc? (type: other question; replies: yes)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7657834982467030279"
+  },
+  {
+   "id": "Q4",
+   "kind": "fan question",
+   "date": "2026-08-11",
+   "text": "meron pa po? (type: stock: available pa?; replies: yes)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7657834982467030279"
+  },
+  {
+   "id": "Q5",
+   "kind": "fan question",
+   "date": "2026-09-15",
+   "text": "se hacen envion? (type: other question; replies: no)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7685730268354825479"
+  },
+  {
+   "id": "Q6",
+   "kind": "fan question (past)",
+   "date": "2025-04-29",
+   "text": "the app name “EN-official light stick ver. 2” it this right? (type: setup: connect / app / battery; 283 likes; on a top15 video)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7463827377362062610"
+  },
+  {
+   "id": "Q7",
+   "kind": "fan question (past)",
+   "date": "2023-07-28",
+   "text": "huwag muna nag iipon pa ako 😭😭😭 (type: money: installment / DP; 267 likes; on a top15 video)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7260516146452139269"
+  },
+  {
+   "id": "Q8",
+   "kind": "fan question (past)",
+   "date": "2025-03-01",
+   "text": "Ate can you help po my lightstick cannot connect to concert mode it says po wala pa pong concert on going (type: setup: connect / app / battery; 45 likes; on a top15 video)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7463827377362062610"
+  },
+  {
+   "id": "Q9",
+   "kind": "fan question (past)",
+   "date": "2023-10-05",
+   "text": "manifesting muna na makasecure ng prio seat bago bumili ng caratbong pls wag ka muna masosold out babalik ako (type: stock: available pa?; 17 likes; on a top15 video)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7286352737850199301"
+  },
+  {
+   "id": "Q10",
+   "kind": "fan question (past)",
+   "date": "2023-09-16",
+   "text": "sana may matira pa huhuhu still undecided pa kung magpupurchase or not. need ko muna makasecure ticket😭 (type: stock: available pa?; 14 likes; on a top15 video)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7278924600619191557"
+  },
+  {
+   "id": "Q11",
+   "kind": "fan question (past)",
+   "date": "2026-03-29",
+   "text": "guys. i already changed into the new batteries but it keep saying this.. what u have to do? (type: setup: connect / app / battery; 14 likes; on a top15 video)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7463827377362062610"
+  },
+  {
+   "id": "Q12",
+   "kind": "fan question (past)",
+   "date": "2022-10-08",
+   "text": "Meron pa po kayong light stick Ng enha? (type: stock: available pa?; 9 likes; on a top15 video)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7151993441289817370"
+  },
+  {
+   "id": "Q13",
+   "kind": "fan question (past)",
+   "date": "2025-08-29",
+   "text": "Mine doesn’t turn onnnn (type: setup: connect / app / battery; 8 likes; on a top15 video)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7463827377362062610"
+  },
+  {
+   "id": "Q14",
+   "kind": "fan question (past)",
+   "date": "2025-02-16",
+   "text": "what's the app po? (type: setup: connect / app / battery; 6 likes; on a top15 video)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7463827377362062610"
+  },
+  {
+   "id": "Q15",
+   "kind": "fan question (past)",
+   "date": "2025-05-16",
+   "text": "How do I connected it to Bluetooth?? (type: setup: connect / app / battery; 6 likes; on a top15 video)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7463827377362062610"
+  },
+  {
+   "id": "Q16",
+   "kind": "fan question (past)",
+   "date": "2024-01-13",
+   "text": "hi! what batteries did you use? 😊 (type: setup: connect / app / battery; 4 likes; on a top15 video)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7144618818113998106"
+  },
+  {
+   "id": "Q17",
+   "kind": "fan question (past)",
+   "date": "2022-10-08",
+   "text": "how much po gusto ko bumili (type: price; 4 likes; on a top15 video)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7151993441289817370"
+  },
+  {
+   "id": "Q18",
+   "kind": "fan question (past)",
+   "date": "2023-01-03",
+   "text": "still available po ba neobong installment? 🥺🥺 (type: stock: available pa?; 4 likes; on a top15 video)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7184286239791648027"
+  },
+  {
+   "id": "Q19",
+   "kind": "fan question (past)",
+   "date": "2023-03-22",
+   "text": "Hindi pa po yan nagssync 😅 (type: setup: connect / app / battery; 4 likes; on a tutorial video)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7205968214898019610"
+  },
+  {
+   "id": "Q20",
+   "kind": "fan question (past)",
+   "date": "2025-07-25",
+   "text": "Does the lightstick need to be connected for it to stay on? Mine falls out once a phew seconds (about 30-60 seconds) (type: setup: connect / app / battery; 4 likes; on a top15 video)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7463827377362062610"
+  },
+  {
+   "id": "Q21",
+   "kind": "fan question (past)",
+   "date": "2025-03-01",
+   "text": "legit Po ba tong shop na toooooo..... surprising my sister huhuuu (type: trust: legit / fake; 4 likes; on a top15 video)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7463827377362062610"
+  },
+  {
+   "id": "Q22",
+   "kind": "fan question (past)",
+   "date": "2022-09-28",
+   "text": "hm po, 2batch po open pa? (type: price; 3 likes; on a top15 video)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7148315872703122714"
+  },
+  {
+   "id": "Q23",
+   "kind": "fan question (past)",
+   "date": "2023-07-28",
+   "text": "bente pa lanh ipon ko beh😭 (type: money: installment / DP; 3 likes; on a top15 video)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7260516146452139269"
+  },
+  {
+   "id": "Q24",
+   "kind": "fan question (past)",
+   "date": "2025-05-17",
+   "text": "pa help po normal lang po ba ung akin na connect ko nman po sa self mode pero nung chineck ko po ung battery percentage naka negative 1% sya kahit po fullcharge nman ung battery ng lightstick hybe bat (type: setup: connect / app / battery; 3 likes; on a top15 video)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7463827377362062610"
+  },
+  {
+   "id": "Q25",
+   "kind": "fan question (past)",
+   "date": "2023-03-14",
+   "text": "yung sa akin naman, nacoconnect siya sa app pero hindi ko mapagana yung pagsync sa music huhu can anyone help ano pwede gawin 🥹 (type: setup: connect / app / battery; 2 likes; on a tutorial video)",
+   "url": "https://www.tiktok.com/@unniemart_/video/7205968214898019610"
+  },
+  {
+   "id": "O1",
+   "kind": "own video",
+   "date": "2026-10-01",
+   "text": "578 views, 1 saves, 0 comments, 1.0x the account's normal. Caption: Sino wala pang bag? #bts #kpopfyp #armybomb #btslightstick #thisisnotabomb",
+   "url": "https://www.tiktok.com/@unniemart_/video/7691614144771951890"
+  },
+  {
+   "id": "O2",
+   "kind": "own video",
+   "date": "2026-09-28",
+   "text": "1,157 views, 0 saves, 0 comments, 2.0x the account's normal. Caption: Spooky Enchin Collections coming up!!! Dm or comment to order. #kpopfyp #enhypen #enchin #spookyenchin #engene",
+   "url": "https://www.tiktok.com/@unniemart_/video/7690595523459419399"
+  },
+  {
+   "id": "O3",
+   "kind": "own video",
+   "date": "2026-09-23",
+   "text": "896 views, 0 saves, 0 comments, 1.55x the account's normal. Caption: We have onhand items for sale. Comment or dm to order #enchin #engene #enhypen #kishu #kpopfyp",
+   "url": "https://www.tiktok.com/@unniemart_/video/7688762867956354311"
+  },
+  {
+   "id": "O4",
+   "kind": "own video",
+   "date": "2026-09-15",
+   "text": "416 views, 0 saves, 1 comments, 0.72x the account's normal. Caption: Our box from Korea has arrived. Includes - Enchin Merch We still have available items so dm us to inquire. #enhypen #enchin #engenes",
+   "url": "https://www.tiktok.com/@unniemart_/video/7685730268354825479"
+  },
+  {
+   "id": "O5",
+   "kind": "own video",
+   "date": "2026-08-28",
+   "text": "447 views, 2 saves, 0 comments, 0.77x the account's normal. Caption: Be concert ready!!! #babymonster #babymonsteryg #babymonster_lightstick",
+   "url": "https://www.tiktok.com/@unniemart_/video/7679077569399966983"
+  },
+  {
+   "id": "O6",
+   "kind": "own video",
+   "date": "2026-08-23",
+   "text": "430 views, 1 saves, 0 comments, 0.74x the account's normal. Caption: Get yours for only P2,650. Dm us to avail. #babymoster #babymonsteryg #lightstick #kpopfyp",
+   "url": "https://www.tiktok.com/@unniemart_/video/7677143045430660370"
+  },
+  {
+   "id": "O7",
+   "kind": "own video",
+   "date": "2026-07-30",
+   "text": "442 views, 0 saves, 1 comments, 0.76x the account's normal. Caption: 🎶🔮 WTS | LFB | BTS | ARMYBOMB 🔮🎶 [PH GO] #Unniemart_Go UNNIES! Our most awaited LIGHSTICK IS NOW HERE! The LATEST VERSION of BTS ARMYBOMB is now available on our shop! 🎉 ✍️ ORDER FORM: bit.ly/4wwajiv",
+   "url": "https://www.tiktok.com/@unniemart_/video/7668299364846062866"
+  },
+  {
+   "id": "O8",
+   "kind": "own video",
+   "date": "2026-07-03",
+   "text": "651 views, 0 saves, 3 comments, 1.13x the account's normal. Caption: 🦄🐺 WTS | LFB | ENHYPEN | ENCHIN JAPAN 🐺🦄 [PH GO] #Unniemart_Go UNNIES! Our offers for ENHYPEN — ENCHIN JAPAN OFFICIAL MERCHANDISE is out now! 🎉 ✍️ ORDER FORM: bit.ly/4p0giJt ✅️ Official from Weverse S",
+   "url": "https://www.tiktok.com/@unniemart_/video/7658213841561586962"
+  },
+  {
+   "id": "O9",
+   "kind": "own video",
+   "date": "2026-07-02",
+   "text": "598 views, 0 saves, 7 comments, 1.03x the account's normal. Caption: 🌹 WTS | LFB | BABYMONSTER | LIGHSTICK 🌹 [PH GO] #Unniemart_Go MONSTIEZ! We are now offering BABYMONSTER'S LIGHTSTICKS! Secure yours now by messaging us ✨️ 💸 DP — ₱300 💳 PAYO — ₱2650 💳 July 31 DOP — ₱2",
+   "url": "https://www.tiktok.com/@unniemart_/video/7657834982467030279"
+  },
+  {
+   "id": "O10",
+   "kind": "own video",
+   "date": "2026-06-28",
+   "text": "629 views, 1 saves, 2 comments, 1.09x the account's normal. Caption: 🌹 WTS | LFB | BABYMONSTER | LIGHSTICK 🌹 [PH GO] #Unniemart_Go MONSTIEZ! We are now offering BABYMONSTER'S LIGHTSTICKS! Sec ure yours now by messaging us ✨️ 💸 DP — ₱300 💳 ₱2,750 ✅️ Official from Wevers",
+   "url": "https://www.tiktok.com/@unniemart_/video/7656394317807783176"
+  },
+  {
+   "id": "O11",
+   "kind": "own video",
+   "date": "2026-06-15",
+   "text": "24,800 views, 2 saves, 1 comments, 42.91x the account's normal. Caption: Latest arrival coming through today, ENGENES! 🛍 12TH ITEM: WALK THE LINE JAPAN TOTE BAG ✨️ PAYO — ₱1020 June 30 — ₱1120 July 31 — ₱1220 DP — ₱300 #ENHYPEN #WALKTHELINE #WTS #engenes",
+   "url": "https://www.tiktok.com/@unniemart_/video/7651506705339059464"
+  },
+  {
+   "id": "O12",
+   "kind": "own video",
+   "date": "2026-06-06",
+   "text": "612 views, 3 saves, 0 comments, 1.02x the account's normal. Caption: 🧸🐻‍❄ WTS | LFB | ENHYPEN | ENCHIN 🐻‍❄🧸 ENGENES! Marami pa rin tayong extra stocks for ENCHIN MERCH under Second PO soo avail yours nowww 🎉 🏷 AVAILABLE ITEMS: 🛍 PLUSH KEYRING 🛍 FACE CUSHION 🛍 LIGHSTICK",
+   "url": "https://www.tiktok.com/@unniemart_/video/7648249868506385682"
+  },
+  {
+   "id": "O13",
+   "kind": "own video",
+   "date": "2026-04-30",
+   "text": "55,900 views, 316 saves, 18 comments. Caption: i got to meet heeseung and now blood saga is playing and i'm not okay 🥺 some moments you just keep forever 🌹 #ENHYPEN #HEESEUNG #BloodSaga #엔하이픈 #이희승",
+   "url": "https://www.tiktok.com/@unniemart_/video/7634520116150963476"
+  },
+  {
+   "id": "O14",
+   "kind": "own video",
+   "date": "2025-01-25",
+   "text": "225,400 views, 3976 saves, 144 comments. Caption: Connecting engenebong V2 to the app.",
+   "url": "https://www.tiktok.com/@unniemart_/video/7463827377362062610"
+  },
+  {
+   "id": "O15",
+   "kind": "own video",
+   "date": "2023-11-15",
+   "text": "50,600 views, 113 saves, 74 comments. Caption: Payday sale! Caratbong v3 #caratbongv3 #svtlightstick #caratbong #followtourinbulacan #followtour",
+   "url": "https://www.tiktok.com/@unniemart_/video/7301496055420488966"
+  },
+  {
+   "id": "O16",
+   "kind": "own video",
+   "date": "2023-10-13",
+   "text": "52,600 views, 105 saves, 48 comments. Caption: Onhand Caratbong v3 for sale #caratbongv3 #caratbongver3 #svtlightstick #svt #caratbongdecoring",
+   "url": "https://www.tiktok.com/@unniemart_/video/7289280910229376262"
+  },
+  {
+   "id": "O17",
+   "kind": "own video",
+   "date": "2023-10-05",
+   "text": "71,600 views, 1256 saves, 320 comments. Caption: New arrival caratbong. Open for installment. Just click https://forms.gle/wN83KacLMteR8gh47 to reserve. Order now 😊#seventeen",
+   "url": "https://www.tiktok.com/@unniemart_/video/7286352737850199301"
+  },
+  {
+   "id": "O18",
+   "kind": "own video",
+   "date": "2023-09-15",
+   "text": "42,500 views, 507 saves, 160 comments. Caption: Replying to @msroxie0612 Here's how our installment/hulugan of caratbong v3 works. #caratbongv3 #caratbong #svtlightstick #caratbongdecor #wtslfbcaratbongv3",
+   "url": "https://www.tiktok.com/@unniemart_/video/7278924600619191557"
+  },
+  {
+   "id": "O19",
+   "kind": "own video",
+   "date": "2023-07-27",
+   "text": "226,300 views, 4914 saves, 355 comments. Caption: Fate Tour Philippines na ba to? #fatetour #fatetourenhypen #darkblood #enhypen #fyp",
+   "url": "https://www.tiktok.com/@unniemart_/video/7260516146452139269"
+  },
+  {
+   "id": "O20",
+   "kind": "own video",
+   "date": "2023-01-10",
+   "text": "45,200 views, 244 saves, 92 comments. Caption: Onhand items #enhypenlightstickforsale #blackpinklightstickforsale #treasurelightstickforsale #enhypenlightstick #blackpinklighstick",
+   "url": "https://www.tiktok.com/@unniemart_/video/7186903723065511195"
+  },
+  {
+   "id": "O21",
+   "kind": "own video",
+   "date": "2023-01-03",
+   "text": "38,600 views, 143 saves, 47 comments. Caption: Go to our TikTok shop to buy onhand, sealed and official enhypen lightstick #enhypenlighstick #enhypenlightstickunboxing #engenebong #enhypenlightstickforsale",
+   "url": "https://www.tiktok.com/@unniemart_/video/7184286239791648027"
+  },
+  {
+   "id": "O22",
+   "kind": "own video",
+   "date": "2022-12-02",
+   "text": "43,300 views, 476 saves, 157 comments. Caption: Enhypen SG 2023 for installment #enhypensg2023 #enhypen #fyp #seasonsgreetings2023 #sg2023 @enhypen",
+   "url": "https://www.tiktok.com/@unniemart_/video/7172362216790838554"
+  },
+  {
+   "id": "O23",
+   "kind": "own video",
+   "date": "2022-10-08",
+   "text": "42,900 views, 156 saves, 197 comments. Caption: SOLD OUT NA ULIT 😱 JUSKO HAMMERBONG @YG FAMILY OFFICIAL @blackpinkofficial #fypシ #fyp #blackpinklightstick #blackpinklightstickversion2 #blackpink",
+   "url": "https://www.tiktok.com/@unniemart_/video/7151993441289817370"
+  },
+  {
+   "id": "O24",
+   "kind": "own video",
+   "date": "2022-09-28",
+   "text": "89,200 views, 937 saves, 1006 comments. Caption: Pwede hulugan #enhypenlightstick #fypシ #fyp #engenebong #lightstickstand",
+   "url": "https://www.tiktok.com/@unniemart_/video/7148315872703122714"
+  },
+  {
+   "id": "P1",
+   "kind": "peer outlier",
+   "date": "2026-08-30",
+   "text": "iamurgrace_ (US, Non-PH creator): 55,900 views, 51.5x its normal, format Product showcase / generic sell. Caption: I KEEP REWATCHING AND IT MAKES ME LAUGH EVERY TIME #bts_official_bighit #chicago #bts #bts_arirang_tour_chicago #jhope @hobipower @BTS",
+   "url": "https://www.tiktok.com/@iamurgrace_/video/7679942877522316575"
+  },
+  {
+   "id": "P2",
+   "kind": "peer outlier",
+   "date": "2026-09-12",
+   "text": "heyseokjinnie (NL, Non-PH creator): 90,400 views, 49.2x its normal, format Concert/idol/fan moment. Caption: never expected to be THIS close to the katseye girlies!! feeling luckyyyy 🫶🏼 katseye in amsterdam, ziggo dome 260911 #katseye #katseyeworld #katseyetour #eyekons #fancam",
+   "url": "https://www.tiktok.com/@heyseokjinnie/video/7684615211059318048"
+  },
+  {
+   "id": "P3",
+   "kind": "peer outlier",
+   "date": "2026-09-24",
+   "text": "recordplanet_ph (PH, PH seller): 16,600 views, 11.5x its normal, format Sale/promo/giveaway. Caption: BUY 1, TAKE 1 — AHOF PASSAGE and RUN TO YOU PHOTOBOOK! 📖 ✨ Get 2 for the price of 1! ✨ — stocks are LIMITED! Grab yours before they’re gone! ⏳ 📍 Visit us at: 3rd Floor, Market! Market!, Taguig 🗓️ Offe",
+   "url": "https://www.tiktok.com/@recordplanet_ph/video/7688957411188657416"
+  },
+  {
+   "id": "P4",
+   "kind": "peer outlier",
+   "date": "2026-09-19",
+   "text": "forever9ph (PH, PH seller): 32,700 views, 10.7x its normal, format Fan content (edits/bias/memes). Caption: LNGSHOT AIN’T READY FOR THE PH SHOTTIES’ INSANE ENERGY 😭🔥🇵🇭 Y’ALL BETTER BRACE YOURSELVES!!! @LNGSHOT @Jay Park (박재범) #PartyLikeRYULStyle #ohyul #ryul #louis #woojin",
+   "url": "https://www.tiktok.com/@forever9ph/video/7687364786404723988"
+  },
+  {
+   "id": "P5",
+   "kind": "peer outlier",
+   "date": "2026-09-01",
+   "text": "recordplanet_ph (PH, PH seller): 15,200 views, 10.5x its normal, format Arrival/onhand/restock showcase. Caption: ARMY ALERT! BTS OFFICIAL ARMY BOMB VERSION 4 IS NOW AVAILABLE! 💜✨ ✅ Limited stocks only — grab yours before they’re gone! ⏳💜 📍 3rd Floor, Market! Market!, Taguig See you at the store, ARMY! 💜🎶 #BTS #A",
+   "url": "https://www.tiktok.com/@recordplanet_ph/video/7680367821733367048"
+  },
+  {
+   "id": "P6",
+   "kind": "peer outlier",
+   "date": "2026-09-07",
+   "text": "purpledolphinshop (PH, PH seller (adjacent)): 7,609 views, 7.7x its normal, format Pre-order / GO announcement. Caption: WTS Price as listed ONHAND PHILIPPINES 🇵🇭 SHIPPING VIA JNT 🚚 DM to order Minimum order ₱200 #gmmtv #pondphuwin #jimmysea #juniormark #geminifourth",
+   "url": "https://www.tiktok.com/@purpledolphinshop/video/7682781072983084309"
+  },
+  {
+   "id": "P7",
+   "kind": "peer outlier",
+   "date": "2026-09-10",
+   "text": "nelfoever (PH, PH seller): 39,100 views, 7.4x its normal, format Pack-with-me / packing / supplies. Caption: hello! n boost? 💅✨ #pwm #packwithme #janelcarts #kpopfyp #packingphotocard",
+   "url": "https://www.tiktok.com/@nelfoever/video/7683845954755120405"
+  },
+  {
+   "id": "P8",
+   "kind": "peer outlier",
+   "date": "2026-09-29",
+   "text": "purpledolphinshop (PH, PH seller (adjacent)): 6,351 views, 6.4x its normal, format Pre-order / GO announcement. Caption: WTS Price as listed ONHAND PHILIPPINES 🇵🇭 SHIPPING VIA JNT 🚚 DM to order #permpoon #avocean #polcasan #tomafox #wesley",
+   "url": "https://www.tiktok.com/@purpledolphinshop/video/7690808938182298901"
+  },
+  {
+   "id": "K1",
+   "kind": "stock",
+   "date": "2026-10-14",
+   "text": "ENHYPEN Official Light Stick VER.2 (Engenebong) · demo unit: yes · on hand: unknown · open GO: unknown · ETA: - · price: ask owner",
+   "url": ""
+  },
+  {
+   "id": "K2",
+   "kind": "stock",
+   "date": "2026-10-14",
+   "text": "SEVENTEEN Official Light Stick VER.3 (Caratbong) · demo unit: yes · on hand: unknown · open GO: unknown · ETA: - · price: ask owner",
+   "url": ""
+  },
+  {
+   "id": "K3",
+   "kind": "stock",
+   "date": "2026-10-14",
+   "text": "BTS Army Bomb VER.4 · demo unit: planned · on hand: no · open GO: unknown · ETA: last week of October 2026 (box KP60121) · price: ask owner",
+   "url": ""
+  },
+  {
+   "id": "S1",
+   "kind": "tiktok studio",
+   "date": "",
+   "text": "TikTok Studio, account-wide, last 365 days (Oct 13, 2025 to Oct 12, 2026), screenshots shared by the owner on 2026-10-14.\nTraffic source: Search 77.1%, For You 18.7%, Personal profile 2.8%, Following 1.4%.\nPost views 309.7K, profile views 2.9K, likes 10.8K, shares 574.\nViewer locations: Philippines 65.5%, Indonesia 11.7%, United States 4.1%, Singapore 2.3%, Malaysia 1.8%, other 14.6%.\nTop posts by views in the last 365 days: Connecting engenebong V2 to the app (posted Jan 25, 2025) 92K; her own Heeseung video-call clip (Apr 30, 2026) 55K; Walk the Line tote arrival (Jun 15, 2026) 24K; SEVENTEEN 11.11 sale (Nov 14, 2025) 11K; Comment \"Enchin\" or DM us to reserve yours (May 12, 2026) 10K; Connecting Caratbong V3 to app (Jan 14, 2025) 8,719; How to use ENHYPEN LIGHTSTICK for the first time (Sep 18, 2022) 3,306.\nNo paid ads on any post (owner, 2026-10-14).",
+   "url": ""
+  },
+  {
+   "id": "W1",
+   "kind": "owner notes",
+   "date": "",
+   "text": "# Owner notes for this week\n\nFree text the weekly brief reads. Replace it each week with what she tells you. Keep it short.\n\n- 2026-10-14: She's in Vietnam until Oct 20, then back in the Philippines. Nothing can be filmed with her demo units before Oct 20.\n- She films and posts herself on a Samsung S23 Ultra.\n- She has her own video-call clips with all ENHYPEN members, including Heeseung (now solo as EVAN).\n- No paid ads, ever.\n- A hired helper replies to DMs. Orders come by order form (Google Form) or DM; payments by DM.\n- Prices for every item: not given yet. Never write a price; use ₱___.",
+   "url": ""
+  }
+ ],
+ "raw_ideas": {
+  "ideas": [
+   {
+    "title": "Will my old Army Bomb work in Bulacan? (Army Bomb VER.4 sync explainer)",
+    "format": "Answer a fan",
+    "season": "BTS Bulacan",
+    "why": "Most of the account's views come from search, and this is the first thing BTS fans will search before Bulacan. The official Weverse notice gives a clear answer. It needs no demo unit, so she can film it as soon as she's back. The Oct 25 live viewing in PH cinemas brings ARMYs together that weekend, so post it before then. No fan in our list asked this exact question, so the on-screen text must not say a buyer asked it.",
+    "source_ids": [
+     "C1",
+     "N4",
+     "C21",
+     "K3",
+     "S1"
+    ],
+    "facts": [
+     {
+      "claim": "Only Army Bomb VER.4 syncs at the shows. VER.3 and MOTS SE are no longer wirelessly controlled at shows, starting with the Busan show on June 12, 2026.",
+      "source_id": "C1",
+      "quote": "Armybomb VER.4-only concert sync in effect (VER.3 and MOTS SE no longer wirelessly controlled at shows since the Busan show on June 12, 2026)"
+     },
+     {
+      "claim": "The rule covers all ARIRANG shows, Bulacan included.",
+      "source_id": "C1",
+      "quote": "all ARIRANG shows incl. Bulacan"
+     },
+     {
+      "claim": "Live Nation PH lists the BTS ARIRANG show in Bulacan.",
+      "source_id": "N4",
+      "quote": "BTS WORLD TOUR ‘ARIRANG' IN BULACAN [Live Nation PH]"
+     },
+     {
+      "claim": "On Oct 25 there is a live viewing of the BTS ARIRANG Buenos Aires concert in PH cinemas.",
+      "source_id": "C21",
+      "quote": "2026-10-25 · BTS · cinema · BTS ARIRANG Buenos Aires concert live viewing in PH cinemas"
+     },
+     {
+      "claim": "The shop's Army Bomb VER.4 box is due in the last week of October.",
+      "source_id": "K3",
+      "quote": "ETA: last week of October 2026 (box KP60121)"
+     },
+     {
+      "claim": "Search brings in most of the account's views.",
+      "source_id": "S1",
+      "quote": "Traffic source: Search 77.1%"
+     }
+    ],
+    "item": "BTS Army Bomb VER.4",
+    "needs_unit": false,
+    "sells": true,
+    "offer_keywords": [
+     "army bomb",
+     "ver.4"
+    ],
+    "question_type": "setup: connect / app / battery",
+    "hook_on_screen": "Gagana ba ang old Army Bomb sa BTS Bulacan?",
+    "shot_list": [
+     "0 to 1 s: hold your phone up to the camera with the official Weverse notice open (weverse.io/bts/notice/33579). If you own an old Army Bomb, hold it next to the phone.",
+     "Text top-left: 'Gagana ba ang old Army Bomb sa BTS Bulacan?' Say out loud: 'Army Bomb VER.4, Bulacan, ito po ang sagot.'",
+     "2 to 4 s: zoom in on the line in the notice that says only VER.4 syncs. Payoff on screen: 'VER.4 lang po ang naka-sync.'",
+     "Say it simply: VER.3 and MOTS SE aren't wirelessly controlled at shows anymore, since the Busan show on June 12, 2026. This covers all ARIRANG shows, Bulacan included.",
+     "Only mention versions the notice names. Don't guess about older versions or about cinema live viewings.",
+     "Last line: 'Check niyo po muna version ng Army Bomb niyo bago mag-Bulacan.' End there, no end card.",
+     "30 to 45 s, your own voice, subtitles on."
+    ],
+    "caption": "Gagana ba ang old Army Bomb sa BTS Bulacan? Ayon po sa official Weverse notice, Army Bomb VER.4 lang po ang naka-sync sa ARIRANG shows. Source link nasa comments. #armybombv4 #armybomb #bts #btsbulacan #kpopph",
+    "pinned_comment": "May parating po kaming Army Bomb VER.4, ETA last week of October. ₱___ DP · total ₱___ · details sa bio po.",
+    "post_window": "Oct 21 to 23 (after she's back, before the Oct 25 live viewing). Re-check the Weverse notice the morning she posts. Don't schedule more than 48 hours ahead.",
+    "needs": [
+     "The official Weverse notice open on her phone (weverse.io/bts/notice/33579)",
+     "An old Army Bomb if she owns one (optional)",
+     "Her real DP and total price for the pinned comment",
+     "Turn on the 'Your brand' label (the pinned comment sells)"
+    ]
+   },
+   {
+    "title": "Lightstick Clinic: Engenebong VER.2 says 'no concert' or battery shows -1%",
+    "format": "Clinic",
+    "season": "none",
+    "why": "Her best video ever is the Engenebong VER.2 app tutorial, and its comments keep asking the same follow-ups: concert mode says there's no concert, new batteries don't help, battery shows -1%. That's a different problem from the tutorial she already has, so it isn't a remake. ENHYPEN's BLOOD SAGA tour film has cinema cheering parties from Oct 24, so v2 owners will be checking their lightsticks that week. Season is none because this serves the cinema week and current v2 owners, not the Renewal release.",
+    "source_ids": [
+     "Q8",
+     "Q11",
+     "Q24",
+     "Q13",
+     "O14",
+     "S1",
+     "C19",
+     "K1",
+     "W1"
+    ],
+    "facts": [
+     {
+      "claim": "A fan says concert mode won't connect and the app says no concert is going on.",
+      "source_id": "Q8",
+      "quote": "my lightstick cannot connect to concert mode it says po wala pa pong concert on going"
+     },
+     {
+      "claim": "A fan changed batteries and still gets the same message.",
+      "source_id": "Q11",
+      "quote": "i already changed into the new batteries but it keep saying this.. what u have to do?"
+     },
+     {
+      "claim": "A fan sees -1% battery even with a full charge.",
+      "source_id": "Q24",
+      "quote": "naka negative 1% sya kahit po fullcharge nman ung battery ng lightstick"
+     },
+     {
+      "claim": "A fan's lightstick won't turn on.",
+      "source_id": "Q13",
+      "quote": "Mine doesn’t turn onnnn"
+     },
+     {
+      "claim": "The shop's Engenebong V2 app tutorial still gets views. This Clinic covers a different problem.",
+      "source_id": "S1",
+      "quote": "Connecting engenebong V2 to the app (posted Jan 25, 2025) 92K"
+     },
+     {
+      "claim": "HYBE CINE FEST runs Oct 24 to 31 in PH cinemas, with ENHYPEN's BLOOD SAGA tour film and cheering parties where fans wave lightsticks.",
+      "source_id": "C19",
+      "quote": "ENHYPEN 'BLOOD SAGA' tour films + 3D 'cheering party' where fans wave light sticks"
+     },
+     {
+      "claim": "Cinema fest dates.",
+      "source_id": "C19",
+      "quote": "2026-10-24 to 2026-10-31"
+     },
+     {
+      "claim": "She has an Engenebong VER.2 demo unit.",
+      "source_id": "K1",
+      "quote": "ENHYPEN Official Light Stick VER.2 (Engenebong) · demo unit: yes"
+     },
+     {
+      "claim": "She can't film with demo units before Oct 20.",
+      "source_id": "W1",
+      "quote": "Nothing can be filmed with her demo units before Oct 20."
+     }
+    ],
+    "item": "ENHYPEN Official Light Stick VER.2 (Engenebong)",
+    "needs_unit": true,
+    "sells": false,
+    "offer_keywords": [],
+    "question_type": "setup: connect / app / battery",
+    "hook_on_screen": "Engenebong VER.2: 'wala pang concert' sa concert mode?",
+    "shot_list": [
+     "Shot from above, hands only, one take. Unlit Engenebong VER.2 demo unit and her phone with the official app open, both in frame.",
+     "0 to 2 s: title top-left, 'Lightstick Clinic · Engenebong VER.2 concert mode at battery'. Step 1 starts right away. Say 'Engenebong VER.2 concert mode' out loud.",
+     "2 to 4 s: the lightstick turns on.",
+     "3 to 4 numbered steps, 2 to 4 s each, taken word for word from the official manual: batteries in the right way, then self mode, then what the concert mode message means.",
+     "Show the battery screen in the app. Only explain the -1% reading if the manual covers it.",
+     "Payoff: 15 to 25 s of colours changing every 2 to 3 seconds.",
+     "30 to 60 s total, short Taglish voice-over or text only, subtitles on, no end card."
+    ],
+    "caption": "Engenebong VER.2 concert mode: bakit sinasabi na wala pang concert? Para po sa mga nag-message sa amin, step by step po based sa official manual. #engenebong #engenebongv2 #enhypen #lightstick #kpopph",
+    "pinned_comment": "Steps po ay galing sa official manual. May iba pa po bang error sa Engenebong niyo? Comment lang po, sasagutin namin.",
+    "post_window": "Film Oct 21 or 22 once she's home with the demo unit. Post Oct 22 or 23, before the cinema cheering parties start Oct 24.",
+    "needs": [
+     "Engenebong VER.2 demo unit (not a buyer's sealed one)",
+     "Official Engenebong VER.2 manual: every step and the meaning of the 'no concert' message must come from it",
+     "Fresh batteries",
+     "Quick TikTok search of 'engenebong concert mode' to see what's already out there"
+    ]
+   },
+   {
+    "title": "ENHYPEN Light Stick VER.2 Renewal Edition: what's official so far (only once Weverse posts the details)",
+    "format": "News",
+    "season": "ENHYPEN Renewal",
+    "why": "This is the shop's top priority this season. ENHYPEN promised the full Renewal Edition details in October, and the playbook's one news-first test got far more comments than a price-first post. Only make this when the official Weverse notice with details is actually up. If it's not out by Oct 25, skip it and carry it to next week.",
+    "source_ids": [
+     "C2",
+     "O14"
+    ],
+    "facts": [
+     {
+      "claim": "ENHYPEN's Light Stick VER.2 Renewal Edition comes with a new logo and symbol.",
+      "source_id": "C2",
+      "quote": "ENHYPEN OFFICIAL LIGHT STICK VER.2 (RENEWAL EDITION) release, new logo and symbol"
+     },
+     {
+      "claim": "Full details were promised for October 2026.",
+      "source_id": "C2",
+      "quote": "full details promised 'in October 2026'"
+     },
+     {
+      "claim": "It will be on Weverse Shop. The sales channel isn't stated yet.",
+      "source_id": "C2",
+      "quote": "Weverse Shop (channel not yet stated)"
+     },
+     {
+      "claim": "Engenebong content is the shop's strongest proven topic.",
+      "source_id": "O14",
+      "quote": "225,400 views, 3976 saves, 144 comments. Caption: Connecting engenebong V2 to the app."
+     }
+    ],
+    "item": "none",
+    "needs_unit": false,
+    "sells": true,
+    "offer_keywords": [
+     "renewal",
+     "engenebong"
+    ],
+    "question_type": "none",
+    "hook_on_screen": "ENHYPEN lightstick VER.2 Renewal Edition: ano ang official?",
+    "shot_list": [
+     "0 to 1 s: the official Weverse announcement visual, full screen.",
+     "1 to 2 s: cut to her. Opener (vary it): 'Engenes, may official na po sa ENHYPEN lightstick Renewal Edition!' Say 'ENHYPEN lightstick renewal' out loud.",
+     "5 to 15 s: the official product photos only. Point out the new logo and symbol.",
+     "Dates and times as stickers, in Philippine time, copied from the notice.",
+     "Optional, only if she's home: hold her old Engenebong VER.2 next to the official photo. Don't claim anything about how the two compare unless the notice says it.",
+     "Service line: 'Sa mga hindi kayang mag-order sa Weverse on their own, kami na po bahala.'",
+     "Ask: 'Comment RENEWAL para sa schedule.' Reply to every comment.",
+     "40 to 60 s. For a pre-order, don't say 'it's here'."
+    ],
+    "caption": "ENHYPEN Light Stick VER.2 Renewal Edition, official details na po. ₱___ DP · full payment ₱___ · by [date] ₱___ · ETA [weeks]. Comment RENEWAL para sa schedule. Source link nasa comments. #engenebong #enhypen #enhypenlightstick #engene",
+    "pinned_comment": "Official Weverse notice: [link]. GO details: ₱___ DP · total ₱___ · order form sa bio po.",
+    "post_window": "Same day or next day after Weverse posts the full details, any day Oct 19 to 25. Posting from a PH phone is better, but she can film this part without a demo unit. Don't schedule ahead. Re-check dates the morning she posts.",
+    "needs": [
+     "The official Weverse notice with full details (weverse.io/enhypen/notice/38876 or the new one)",
+     "Official product photos from Weverse",
+     "Her real DP, total price, cut-off date and ETA",
+     "Turn on the 'Your brand' label"
+    ]
+   },
+   {
+    "title": "Box from Korea Ep. 1: Army Bomb VER.4 arrives (only if box KP60121 lands by Oct 25)",
+    "format": "Proof",
+    "season": "BTS Bulacan",
+    "why": "Shows the Army Bomb VER.4 stock is real, right when ARMYs start getting ready for Bulacan. It also answers the 'legit po ba' question with proof instead of claims. A 2026 arrival clip with no concert coming flopped, but this one lands inside the BTS season. Only film it if the box actually arrives this week. Otherwise it goes in next week's brief.",
+    "source_ids": [
+     "K3",
+     "C1",
+     "Q21",
+     "O4"
+    ],
+    "facts": [
+     {
+      "claim": "The Army Bomb VER.4 box is due the last week of October.",
+      "source_id": "K3",
+      "quote": "ETA: last week of October 2026 (box KP60121)"
+     },
+     {
+      "claim": "There's no Army Bomb VER.4 on hand yet. A demo unit is planned.",
+      "source_id": "K3",
+      "quote": "demo unit: planned · on hand: no"
+     },
+     {
+      "claim": "Only VER.4 syncs at ARIRANG shows, Bulacan included.",
+      "source_id": "C1",
+      "quote": "all ARIRANG shows incl. Bulacan"
+     },
+     {
+      "claim": "A fan asked whether the shop is legit.",
+      "source_id": "Q21",
+      "quote": "legit Po ba tong shop na toooooo..... surprising my sister huhuuu"
+     },
+     {
+      "claim": "Her last box-arrival video, with no concert coming, did poorly.",
+      "source_id": "O4",
+      "quote": "416 views, 0 saves, 1 comments, 0.72x the account's normal. Caption: Our box from Korea has arrived."
+     }
+    ],
+    "item": "BTS Army Bomb VER.4",
+    "needs_unit": true,
+    "sells": true,
+    "offer_keywords": [
+     "army bomb",
+     "ver.4",
+     "on hand"
+    ],
+    "question_type": "trust: legit / fake",
+    "hook_on_screen": "Army Bomb VER.4 · Box from Korea Ep. 1",
+    "shot_list": [
+     "0 to 1 s: the sealed courier box on the table, in good light. Text top-left: 'Army Bomb VER.4 · Box from Korea Ep. 1'. Say 'Army Bomb VER.4' out loud.",
+     "1 to 3 s: cut the tape and show the Army Bomb VER.4 boxes inside.",
+     "Quick cut: the official order screen with personal data blurred.",
+     "Sort the boxes into one tidy row (a short stock-wall moment, all the same model).",
+     "Switch on the demo unit so it lights up.",
+     "Packing with buyer names covered, then courier hand-off if it happens the same day.",
+     "45 to 75 s. Short text labels, little talking. Last frame: 'Ep. 2 next box.'"
+    ],
+    "caption": "Box from Korea Ep. 1: dumating na po ang Army Bomb VER.4. Official order, sealed boxes. ₱___ DP · total ₱___ · order form sa bio po. #armybombv4 #armybomb #bts #kpopph",
+    "pinned_comment": "On hand na po ang Army Bomb VER.4. ₱___ DP · total ₱___ · order form sa bio po.",
+    "post_window": "The day box KP60121 arrives, only if that's Oct 21 to 25. If it arrives later, move it to next week.",
+    "needs": [
+     "Box KP60121 actually in hand",
+     "Order screen screenshot with personal data blurred",
+     "One unit set aside as the demo unit",
+     "Her real DP and total price",
+     "Turn on the 'Your brand' label"
+    ]
+   },
+   {
+    "title": "Ipon plan: Army Bomb VER.4 before BTS Bulacan",
+    "format": "Money",
+    "season": "BTS Bulacan",
+    "why": "Money is fans' number one worry. 'Pwede hulugan' is still one of the shop's biggest videos, and her installment explainer did well inside a concert season. Fans on her old posts were openly saving up. Laying out the real payment plan as a calendar that ends before the Bulacan show turns that worry into an order. We don't have the Bulacan date in our sources, so she needs to get it from Live Nation PH first.",
+    "source_ids": [
+     "O24",
+     "O18",
+     "Q7",
+     "Q23",
+     "C1",
+     "N4"
+    ],
+    "facts": [
+     {
+      "claim": "The shop's 'Pwede hulugan' post was a big hit.",
+      "source_id": "O24",
+      "quote": "89,200 views, 937 saves, 1006 comments. Caption: Pwede hulugan"
+     },
+     {
+      "claim": "Her installment explainer reply video worked.",
+      "source_id": "O18",
+      "quote": "42,500 views, 507 saves, 160 comments. Caption: Replying to @msroxie0612 Here's how our installment/hulugan of caratbong v3 works."
+     },
+     {
+      "claim": "A fan said she was still saving up.",
+      "source_id": "Q7",
+      "quote": "huwag muna nag iipon pa ako 😭😭😭"
+     },
+     {
+      "claim": "Another fan joked her savings were tiny.",
+      "source_id": "Q23",
+      "quote": "bente pa lanh ipon ko beh😭"
+     },
+     {
+      "claim": "Only VER.4 syncs at ARIRANG shows, Bulacan included.",
+      "source_id": "C1",
+      "quote": "all ARIRANG shows incl. Bulacan"
+     },
+     {
+      "claim": "Live Nation PH lists the Bulacan show.",
+      "source_id": "N4",
+      "quote": "BTS WORLD TOUR ‘ARIRANG' IN BULACAN [Live Nation PH]"
+     }
+    ],
+    "item": "BTS Army Bomb VER.4",
+    "needs_unit": false,
+    "sells": true,
+    "offer_keywords": [
+     "hulugan",
+     "army bomb",
+     "ver.4"
+    ],
+    "question_type": "money: installment / DP",
+    "hook_on_screen": "₱___ DP lang · total ₱___ · Army Bomb VER.4 bago mag-Bulacan",
+    "shot_list": [
+     "0 to 1 s: from above, her hand writing on a real paper planner or calendar. Text top-left with the small number first: '₱___ DP lang · total ₱___'. Say 'Army Bomb VER.4 hulugan' out loud.",
+     "2 to 4 s: draw the first box on the calendar: '₱___ DP ngayon'.",
+     "Fill in each real payment step and date, one every 3 to 4 s.",
+     "Last box: 'on hand before Bulacan [date]', using the real date from Live Nation PH.",
+     "Voice: her real late-payment rule, said kindly, in one line.",
+     "End on the finished calendar. 30 to 50 s, subtitles on.",
+     "A/B test log: this one opens with the small number first."
+    ],
+    "caption": "Army Bomb VER.4 hulugan para sa BTS Bulacan. ₱___ DP ngayon, ₱___ by [date], on hand bago ang show. Order form sa bio po. #armybombv4 #bts #hulugan #kpopph",
+    "pinned_comment": "Army Bomb VER.4 hulugan: ₱___ DP · total ₱___ · last payment [date] · order form sa bio po.",
+    "post_window": "Oct 23 to 25, after the old-Army-Bomb explainer is up. Re-check the dates the morning she posts.",
+    "needs": [
+     "The Bulacan show date from Live Nation PH (it isn't in our sources)",
+     "Her real installment plan: DP, each payment, dates and total",
+     "Her real late-payment rule",
+     "Paper planner or calendar and a marker",
+     "Turn on the 'Your brand' label"
+    ]
+   },
+   {
+    "title": "Her own ENHYPEN video-call clip for BLOOD SAGA cinema week",
+    "format": "Fan moment",
+    "season": "none",
+    "why": "Her own video-call clip was her second-best video of the year, and fan moments are the shop's other proven hit. ENHYPEN's BLOOD SAGA tour film hits PH cinemas from Oct 24, so it's a natural time to post another of her own clips. Use a current member: Heeseung is solo now. Nothing is sold here.",
+    "source_ids": [
+     "W1",
+     "O13",
+     "S1",
+     "C19"
+    ],
+    "facts": [
+     {
+      "claim": "She has her own video-call clips with all ENHYPEN members. Heeseung is now solo.",
+      "source_id": "W1",
+      "quote": "She has her own video-call clips with all ENHYPEN members, including Heeseung (now solo as EVAN)."
+     },
+     {
+      "claim": "Her own video-call clip did well.",
+      "source_id": "O13",
+      "quote": "55,900 views, 316 saves, 18 comments."
+     },
+     {
+      "claim": "It was among her top posts of the year.",
+      "source_id": "S1",
+      "quote": "her own Heeseung video-call clip (Apr 30, 2026) 55K"
+     },
+     {
+      "claim": "HYBE CINE FEST shows ENHYPEN's BLOOD SAGA tour film in PH cinemas, including SM Mall of Asia.",
+      "source_id": "C19",
+      "quote": "SM cinemas incl. SM Mall of Asia"
+     },
+     {
+      "claim": "Cinema fest dates.",
+      "source_id": "C19",
+      "quote": "2026-10-24 to 2026-10-31"
+     }
+    ],
+    "item": "none",
+    "needs_unit": false,
+    "sells": false,
+    "offer_keywords": [],
+    "question_type": "none",
+    "hook_on_screen": "Video call ko with [member] habang BLOOD SAGA week 🥺",
+    "shot_list": [
+     "0 to 1 s: the best moment of her own video-call clip with a current ENHYPEN member, his reaction on screen right away.",
+     "Her voice over it: the short real story of that call, in her own words.",
+     "Optional: one line saying the BLOOD SAGA tour film is in PH cinemas from Oct 24.",
+     "Mute or lower any music. No ENHYPEN songs, no other people's footage.",
+     "End on the clip's best moment. 15 to 40 s, subtitles on."
+    ],
+    "caption": "Hindi ko pa rin po makalimutan ang video call na ito. BLOOD SAGA tour film sa PH cinemas from Oct 24, sino manonood? #enhypen #bloodsaga #engene",
+    "pinned_comment": "Sino po ang manonood ng BLOOD SAGA sa cinema? Comment niyo kung saang branch kayo!",
+    "post_window": "Oct 24, the first day of the cinema fest. She can edit it from her saved clips any time this week.",
+    "needs": [
+     "Her own video-call clip with a current ENHYPEN member (not Heeseung)",
+     "A clean exported copy for Facebook Reels and X"
+    ]
+   },
+   {
+    "title": "How to order from Unnie Mart in 20 seconds",
+    "format": "Answer a fan",
+    "season": "none",
+    "why": "'Meron pa po?' and 'magkano?' keep coming up in the comments and nobody gets a clear answer. A short how-to-order video gives buyers and her DM helper one link to share. No demo unit needed. It's lower priority because it isn't tied to a season.",
+    "source_ids": [
+     "Q1",
+     "Q4",
+     "Q2",
+     "W1"
+    ],
+    "facts": [
+     {
+      "claim": "A fan asked if an item was still available.",
+      "source_id": "Q1",
+      "quote": "Meron pa po?"
+     },
+     {
+      "claim": "Another fan asked the same.",
+      "source_id": "Q4",
+      "quote": "meron pa po?"
+     },
+     {
+      "claim": "A fan asked how much the lightstick costs.",
+      "source_id": "Q2",
+      "quote": "mag kano ang lightstick nila?"
+     },
+     {
+      "claim": "Orders come by Google Form or DM. Payments are by DM.",
+      "source_id": "W1",
+      "quote": "Orders come by order form (Google Form) or DM; payments by DM."
+     }
+    ],
+    "item": "none",
+    "needs_unit": false,
+    "sells": true,
+    "offer_keywords": [
+     "order form",
+     "how to order"
+    ],
+    "question_type": "how to order",
+    "hook_on_screen": "Paano mag-order sa Unnie Mart? 20 seconds lang po",
+    "shot_list": [
+     "0 to 1 s: her hand holding her phone with the order form open (blur any personal data). Text top-left: 'Tanong ng isang buyer: Meron pa po?' Say 'how to order' out loud.",
+     "Step 1 (3 s): tap the order form link in bio.",
+     "Step 2 (3 s): fill in the form, or send a DM if you prefer.",
+     "Step 3 (3 s): payment details come by DM.",
+     "Step 4 (3 s): what happens next, in her own real words.",
+     "End on the form being sent. 20 to 45 s, subtitles on."
+    ],
+    "caption": "Paano mag-order sa Unnie Mart? Order form sa bio o DM lang po, tapos payment details by DM. #kpopph #kpopgoph #lightstickph",
+    "pinned_comment": "Order form po nasa bio. Pwede rin po mag-DM para sa stock at presyo.",
+    "post_window": "Oct 23 to 25, any day she isn't posting another idea.",
+    "needs": [
+     "Order form link working in bio",
+     "Screen recording or phone shot of the form with personal data blurred",
+     "Her real 'what happens next' steps after a buyer orders",
+     "Turn on the 'Your brand' label"
+    ]
+   }
+  ]
+ },
+ "checked": [
+  {
+   "title": "Ipon plan: Army Bomb VER.4 before BTS Bulacan",
+   "status": "ready",
+   "problems": [],
+   "warnings": [
+    "ask her: is BTS Army Bomb VER.4 on hand or in an open GO?"
+   ],
+   "in_season": true,
+   "questions": 2,
+   "evidence": 1
+  },
+  {
+   "title": "Box from Korea Ep. 1: Army Bomb VER.4 arrives (only if box KP60121 lands by Oct 25)",
+   "status": "waiting",
+   "problems": [
+    "no demo unit or stock of BTS Army Bomb VER.4 yet (expected: last week of October 2026 (box KP60121))"
+   ],
+   "warnings": [
+    "ask her: is BTS Army Bomb VER.4 on hand or in an open GO?"
+   ],
+   "in_season": true,
+   "questions": 1,
+   "evidence": 2
+  },
+  {
+   "title": "Will my old Army Bomb work in Bulacan? (Army Bomb VER.4 sync explainer)",
+   "status": "ready",
+   "problems": [],
+   "warnings": [
+    "ask her: is BTS Army Bomb VER.4 on hand or in an open GO?"
+   ],
+   "in_season": true,
+   "questions": 0,
+   "evidence": 1
+  },
+  {
+   "title": "ENHYPEN Light Stick VER.2 Renewal Edition: what's official so far (only once Weverse posts the details)",
+   "status": "ready",
+   "problems": [],
+   "warnings": [],
+   "in_season": true,
+   "questions": 0,
+   "evidence": 1
+  },
+  {
+   "title": "Lightstick Clinic: Engenebong VER.2 says 'no concert' or battery shows -1%",
+   "status": "ready",
+   "problems": [],
+   "warnings": [],
+   "in_season": false,
+   "questions": 4,
+   "evidence": 1
+  },
+  {
+   "title": "How to order from Unnie Mart in 20 seconds",
+   "status": "ready",
+   "problems": [],
+   "warnings": [],
+   "in_season": false,
+   "questions": 3,
+   "evidence": 1
+  },
+  {
+   "title": "Her own ENHYPEN video-call clip for BLOOD SAGA cinema week",
+   "status": "ready",
+   "problems": [],
+   "warnings": [],
+   "in_season": false,
+   "questions": 0,
+   "evidence": 1
+  }
+ ]
+}

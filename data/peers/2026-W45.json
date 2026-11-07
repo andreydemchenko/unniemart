@@ -1,0 +1,168 @@
+{
+ "week": "2026-W45",
+ "made_at": "2026-11-01T22:32:45.894581+00:00",
+ "source": "a live Apify scrape",
+ "videos": 170,
+ "outliers": [
+  {
+   "account": "iamurgrace_",
+   "group": "Non-PH creator",
+   "country": "US",
+   "id": "7699993584786738463",
+   "date": "2026-10-23T22:27:54.000Z",
+   "url": "https://www.tiktok.com/@iamurgrace_/video/7699993584786738463",
+   "views": 26300,
+   "likes": 1834,
+   "comments": 46,
+   "saves": 80,
+   "caption": "happiest girl in the world 🥹🙏 I most definitely have lucky girl syndrome because I still have 3 on the way😭\n\n  #jhopexnike #nike #sneakers #JHOPExNIGOXAF1 @hobipower @BTS",
+   "followers": 3815,
+   "pinned": false,
+   "slideshow": false,
+   "duration_s": 7,
+   "age_days": 9,
+   "normal": 1086.0,
+   "x_normal": 24.2,
+   "saves_per_view": 0.003,
+   "format": "Other/unclear"
+  }
+ ],
+ "accounts": [
+  {
+   "account": "poppeshop",
+   "group": "PH seller",
+   "country": "PH",
+   "scraped_now": 10,
+   "normal": 13700,
+   "newest_post": "2026-10-19"
+  },
+  {
+   "account": "seoulstop",
+   "group": "PH seller",
+   "country": "PH",
+   "scraped_now": 10,
+   "normal": 30550.0,
+   "newest_post": "2026-10-06"
+  },
+  {
+   "account": "ynawrap",
+   "group": "PH seller",
+   "country": "PH",
+   "scraped_now": 10,
+   "normal": 843.5,
+   "newest_post": "2026-10-12"
+  },
+  {
+   "account": "chulien07",
+   "group": "PH seller",
+   "country": "PH",
+   "scraped_now": 10,
+   "normal": 598.0,
+   "newest_post": "2026-06-23"
+  },
+  {
+   "account": "forever9ph",
+   "group": "PH seller",
+   "country": "PH",
+   "scraped_now": 10,
+   "normal": 2595.0,
+   "newest_post": "2026-10-24"
+  },
+  {
+   "account": "joahaeyoph",
+   "group": "PH seller",
+   "country": "PH",
+   "scraped_now": 10,
+   "normal": 3004.0,
+   "newest_post": "2026-10-29"
+  },
+  {
+   "account": "meromiph",
+   "group": "PH seller",
+   "country": "PH",
+   "scraped_now": 10,
+   "normal": 8559,
+   "newest_post": "2025-10-11"
+  },
+  {
+   "account": "recordplanet_ph",
+   "group": "PH seller",
+   "country": "PH",
+   "scraped_now": 10,
+   "normal": 1407,
+   "newest_post": "2026-10-30"
+  },
+  {
+   "account": "kpopmerch.official",
+   "group": "SEA seller",
+   "country": "KR/SEA",
+   "scraped_now": 10,
+   "normal": 649,
+   "newest_post": "2026-10-30"
+  },
+  {
+   "account": "nelfoever",
+   "group": "PH seller",
+   "country": "PH",
+   "scraped_now": 10,
+   "normal": 6145,
+   "newest_post": "2026-09-25"
+  },
+  {
+   "account": "purpledolphinshop",
+   "group": "PH seller (adjacent)",
+   "country": "PH",
+   "scraped_now": 10,
+   "normal": 878.0,
+   "newest_post": "2026-11-01"
+  },
+  {
+   "account": "chipopstore",
+   "group": "SEA seller",
+   "country": "ID",
+   "scraped_now": 10,
+   "normal": 80500,
+   "newest_post": "2026-10-24"
+  },
+  {
+   "account": "milky_kshop",
+   "group": "SEA seller",
+   "country": "ID",
+   "scraped_now": 10,
+   "normal": 618.0,
+   "newest_post": "2026-10-30"
+  },
+  {
+   "account": "0102zyoungwon",
+   "group": "Non-PH creator",
+   "country": "CA",
+   "scraped_now": 10,
+   "normal": 87950.0,
+   "newest_post": "2026-10-31"
+  },
+  {
+   "account": "heyseokjinnie",
+   "group": "Non-PH creator",
+   "country": "NL",
+   "scraped_now": 10,
+   "normal": 1714.5,
+   "newest_post": "2026-10-29"
+  },
+  {
+   "account": "lilinanaunboxings",
+   "group": "Non-PH creator",
+   "country": "PL",
+   "scraped_now": 10,
+   "normal": 349500.0,
+   "newest_post": "2026-10-11"
+  },
+  {
+   "account": "iamurgrace_",
+   "group": "Non-PH creator",
+   "country": "US",
+   "scraped_now": 10,
+   "normal": 1135,
+   "newest_post": "2026-10-30"
+  }
+ ]
+}

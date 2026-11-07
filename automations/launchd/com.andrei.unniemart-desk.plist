@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>com.andrei.unniemart-desk</string>
+  <key>ProgramArguments</key>
+  <array><string>/Users/macbookpro/Documents/Projects/unniemart/automations/run.sh</string><string>desk</string></array>
+  <!-- Every hour while the laptop is awake: her sheet → order desk → the locked online copy. -->
+  <key>StartInterval</key><integer>3600</integer>
+  <key>StandardErrorPath</key><string>/Users/macbookpro/Documents/Projects/unniemart/data/logs/launchd-desk.err</string>
+</dict>
+</plist>

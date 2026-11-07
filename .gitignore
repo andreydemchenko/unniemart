@@ -1,0 +1,14 @@
+.DS_Store
+.env
+*.env
+data/raw/
+data/media/
+__pycache__/
+data/state/
+.pytest_cache/
+data/logs/
+data/owner/finance/
+data/owner/orders/
+site/.state/
+site/web/node_modules/
+site/web/dist/

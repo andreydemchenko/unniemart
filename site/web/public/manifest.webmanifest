@@ -1,0 +1,3 @@
+{ "name": "Unnie Mart", "short_name": "Unnie Mart", "start_url": "/", "display": "standalone",
+  "background_color": "#fbd034", "theme_color": "#fbd034",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }] }

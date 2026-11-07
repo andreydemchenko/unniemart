@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>com.andrei.unniemart-weekly</string>
+  <key>ProgramArguments</key>
+  <array><string>/Users/macbookpro/Documents/Projects/unniemart/automations/run.sh</string><string>weekly</string></array>
+  <!-- Mondays 06:30 laptop time (UTC+7) = 07:30 Philippine time; the brief is ready by about 07:45 PHT. -->
+  <key>StartCalendarInterval</key>
+  <dict><key>Weekday</key><integer>1</integer><key>Hour</key><integer>6</integer><key>Minute</key><integer>30</integer></dict>
+  <key>StandardErrorPath</key><string>/Users/macbookpro/Documents/Projects/unniemart/data/logs/launchd-weekly.err</string>
+</dict>
+</plist>
