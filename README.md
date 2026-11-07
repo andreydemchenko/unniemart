@@ -1,5 +1,9 @@
 # Unnie Mart
 
+**New here? Open [START-HERE.md](START-HERE.md)**: how to run the website on your own computer.
+
+# Unnie Mart
+
 Content strategy and automations for **Unnie Mart** (TikTok [@unniemart_](https://www.tiktok.com/@unniemart_)),
 a Philippine K-pop merch group-order shop that posts in Taglish.
 
